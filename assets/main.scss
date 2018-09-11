@@ -31,7 +31,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav {
-    box-shadow: 0 2px 2px -1px rgba(247,224,208,1);
+    box-shadow: 0 2px 2px -1px #e2e3eb;
 }
 
 .nav-title {
@@ -53,6 +53,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .catalogue-item {
     color: #031482;
+    border-bottom: 1px solid #e2e3eb;
 }
 
 .catalogue-line {
@@ -73,6 +74,10 @@ h1, h2, h3, h4, h5, h6 {
 
 .pagination .top {
     color: #031482;
+}
+
+.pagination {
+    border-top: 0.5px solid #e2e3eb;
 }
 
 footer span {
