@@ -1,7 +1,7 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-url:            "https://chesterhow.github.io"
+title:          Dominic Prestifilippo
+description:    "Working at the intersection of businesses and their customers to improve the interaction for both."
+url:            "https://dpresto.github.io"
 
 # Author
 author:
@@ -21,7 +21,7 @@ sass:
 plugins:
   - jekyll-feed
   - jekyll-paginate
-  # - jemoji #Uncomment this to allow emoji in your post
+  - jemoji #Uncomment this to allow emoji in your post
 
 # Permalinks
 permalink:      /:year-:month-:day/:title
