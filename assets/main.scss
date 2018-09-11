@@ -1,7 +1,7 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
-# blue: #1b167c | #1606a6 | #171a5a
-# white: #f7e0d0 | #dcd4d4 | #dfdcd6
+# blue: #1b167c | #1606a6 | #171a5a | …
+# white: #f7e0d0 | #dcd4d4 | #dfdcd6 | #e0dee9
 # yellow: #fed984 | #caa22b
 # red: #a11309 | #af0006
 ---
@@ -10,12 +10,12 @@
 
 
 body {
-  background-color: #dfdcd6;
-  color: #171a5a;
+  background-color: #e0dee9;
+  color: #1606a6;
 }
 
 .post-title {
-    color: #171a5a;
+    color: #1606a6;
 }
 
 a {
@@ -23,11 +23,11 @@ a {
 }
 
 post-line {
-    border-top: 0.4rem solid #171a5a;
+    border-top: 0.4rem solid #1606a6;
 }
 
 h1, h2, h3, h4, h5, h6 {
-    color: #171a5a;
+    color: #1606a6;
 }
 
 .nav {
@@ -35,56 +35,56 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-title {
-    color: #171a5a;
+    color: #1606a6;
 }
 
 .nav a {
-    color: #171a5a;
+    color: #1606a6;
 }
 
 .nav li {
-    color: #171a5a;
+    color: #1606a6;
     opacity: 1;
 }
 
 .catalogue-title {
-    color: #171a5a;
+    color: #1606a6;
 }
 
 .catalogue-item {
-    color: #171a5a;
+    color: #1606a6;
 }
 
 .catalogue-line {
-    border-top: 0.2rem solid #171a5a;
+    border-top: 0.2rem solid #1606a6;
 }
 
 .catalogue-time {
-    color: #171a5a;
+    color: #1606a6;
 }
 
 .post-line {
-    border-top: 0.4rem solid #171a5a;
+    border-top: 0.4rem solid #1606a6;
 }
 
 .post-info {
-    color: #171a5a;
+    color: #1606a6;
 }
 
 .pagination .top {
-    color: #171a5a;
+    color: #1606a6;
 }
 
 footer span {
-    color: #171a5a;
+    color: #1606a6;
 }
 
 .pagination .arrow {
-    color: #171a5a;
+    color: #1606a6;
   }
 
 .pagination span {
-    color: #171a5a; 
+    color: #1606a6; 
   }
 
 pre code {
