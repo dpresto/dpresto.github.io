@@ -86,11 +86,24 @@ footer span {
 .pagination span {
     color: #031482; 
   }
-
-pre code {
-  color: #bf616a;
-  }
-
+---
+# code block color change testing
+# pre code {
+#  color: #fe9d9e;
+#  }
+#
+# .highlight .gh {
+#    color: #90ccb2;
+# }
+#
+# .highlight .gu {
+#    color: #90ccb2;
+# }
+#   
+# .highlight .nv {
+#    color: #90ccb2;
+#  }
+---
 .highlight {
-    background-color: #171a5a;
+    background-color: #f3f2f2;
 }
