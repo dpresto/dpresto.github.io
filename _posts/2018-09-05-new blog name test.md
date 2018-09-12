@@ -182,7 +182,35 @@ Here's some content, I wonder how it will work… I need to figure out the markd
     ">
     </div>
   </div>
-<div style="margin-left: auto;"> <div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div> <div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div> <div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div></div></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"></div></div></a><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/BnZ6zy0AP5n/?utm_source=ig_embed_loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A post shared by CSC Motorcycles (@cscmotorcycles)</a> on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2018-09-07T00:35:31+00:00">Sep 6, 2018 at 5:35pm PDT</time></p></div></blockquote> <script async defer src="https://www.instagram.com/embed.js"></script>
+    <div style="
+              margin-left: auto;
+    "> 
+      <div style=" 
+                width: 0px; 
+                border-top: 8px solid #F4F4F4; 
+                border-right: 8px solid transparent; 
+                transform: translateY(16px);
+      ">
+      </div> 
+      <div style=" 
+                background-color: #F4F4F4; 
+                flex-grow: 0; 
+                height: 12px; 
+                width: 16px; 
+                transform: translateY(-4px);
+      ">
+      </div> 
+      <div style=" 
+                width: 0; 
+                height: 0; 
+                border-top: 8px solid #F4F4F4; 
+                border-left: 8px solid transparent; 
+                transform: translateY(-4px) translateX(8px);
+      ">
+      </div>
+    </div>
+  </div> 
+  <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"></div></div></a><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/BnZ6zy0AP5n/?utm_source=ig_embed_loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A post shared by CSC Motorcycles (@cscmotorcycles)</a> on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2018-09-07T00:35:31+00:00">Sep 6, 2018 at 5:35pm PDT</time></p></div></blockquote> <script async defer src="https://www.instagram.com/embed.js"></script>
 
 # Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AC7hc2yZxdY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
