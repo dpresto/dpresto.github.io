@@ -1,6 +1,6 @@
 Here's some content, I wonder how it will work… I need to figure out the markdown styles for this.
 
-![Placeholder image](https://placehold.it/800x400 "Placeholder image")
+![Placeholder image](https://www.dropbox.com/s/oym199y3n5zvcuj/2016-07-25%2012.47.57.jpg?dl=0 "Placeholder image text")
 
 # vimeo
 <iframe src="https://player.vimeo.com/video/145221080" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
