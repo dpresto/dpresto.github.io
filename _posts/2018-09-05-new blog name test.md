@@ -2,6 +2,8 @@ Here's some content, I wonder how it will work… I need to figure out the markd
 
 ![Placeholder image](http://dominicp.com/wp-content/uploads/2017/11/2016-05-02-16.12.44.jpg "Placeholder image text")
 
+![placeholder image]
+
 # vimeo
 <iframe src="https://player.vimeo.com/video/145221080" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
