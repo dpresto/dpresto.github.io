@@ -1,6 +1,6 @@
 Here's some content, I wonder how it will work… I need to figure out the markdown styles for this.
 
-![Placeholder image](http://dominicp.com/wp-content/uploads/2017/11/2016-05-02-16.12.44.jpg "Placeholder image text")
+![Placeholder image](http://dominicp.com/wp-content/uploads/2017/11/2016-05-02-16.12.44.jpg "Placeholder image text"){:height="36px" width="36px"}
 
 ![placeholder image]
 
