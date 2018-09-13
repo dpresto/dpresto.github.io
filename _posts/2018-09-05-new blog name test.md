@@ -1,5 +1,7 @@
 Here's some content, I wonder how it will work… I need to figure out the markdown styles for this.
 
+![Placeholder image](https://placehold.it/800x400 "Placeholder image")
+
 # vimeo
 <iframe src="https://player.vimeo.com/video/145221080" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
