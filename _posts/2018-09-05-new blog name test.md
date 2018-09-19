@@ -3,8 +3,8 @@ layout: post
 title: "New post test 2"
 author: "Dominic"
 Published: false
-post_image: /assets/dom_headshot_200_B&W.jpg
-alt_post_image: Dom Headshot
+post_image: /assets/2015-08-28 08.06.48.jpg
+alt_post_image: bike lock
 ---
 
 ![Name of Link]({{ site.baseurl }}{{ page.post_image }})
