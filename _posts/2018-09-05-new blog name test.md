@@ -3,8 +3,8 @@ layout: post
 title: "New post test 2"
 author: "Dominic"
 Published: false
-post_image: /assets/2015-08-28 08.06.48.jpg
-alt_post_image: bike lock
+post_image: /assets/DSCN9532.JPG
+alt_post_image: Pacific Beach Crystal Pier
 ---
 
 ![Name of Link]({{ site.baseurl }}{{ page.post_image }})
