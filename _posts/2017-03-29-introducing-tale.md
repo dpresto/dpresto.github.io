@@ -3,8 +3,8 @@ layout: post
 title: "Introducing Tale"
 author: "Chester"
 Published: false
-post_image: /assets/dom_headshot_200_B&W.jpg
-alt_post_image: Dom Headshot
+post_image: /assets/IMG_0579.JPG
+alt_post_image: Dom working
 ---
 
 ![Name of Link]({{ site.baseurl }}{{ page.post_image }})
