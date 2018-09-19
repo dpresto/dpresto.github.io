@@ -3,11 +3,10 @@ layout: post
 title: "New post test 2"
 author: "Dominic"
 Published: false
-image: /assets/dom_headshot_200_B&W.jpg
+post_image: /assets/dom_headshot_200_B&W.jpg
 ---
 
-<h1>{{ page.image }}</h1>
-![Name of Link]({{ site.baseurl }}{{ page.image }})
+![Name of Link]({{ site.baseurl }}{{ page.post_image }})
 
 Here's some content, I wonder how it will work… I need to figure out the markdown styles for this.
 
