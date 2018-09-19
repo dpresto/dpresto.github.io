@@ -6,7 +6,7 @@ layout: default
   {% for post in paginator.posts %}
     <a href="{{ post.url | prepend: site.baseurl }}" class="catalogue-item">
       <div>
-        ![Placeholder image](https://www.dropbox.com/s/oym199y3n5zvcuj/2016-07-25%2012.47.57.jpg?raw=1 "Placeholder image text"){:height="200px" width="200px"}
+        {{ post.post_iamge }}
         <time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%B %d, %Y" }}</time>
         <h1 class="catalogue-title">{{ post.title }}</h1>
         <div class="catalogue-line"></div>
