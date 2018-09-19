@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Example Content"
-author: "Chester"
+title: "New post test"
+author: "Dominic"
 ---
 
 Here's some content, I wonder how it will work… I need to figure out the markdown styles for this.
