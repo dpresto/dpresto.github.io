@@ -1,8 +1,13 @@
 ---
 layout: post
-title:  "Introducing Tale"
+title: "Introducing Tale"
 author: "Chester"
+Published: false
+post_image: /assets/dom_headshot_200_B&W.jpg
+alt_post_image: Dom Headshot
 ---
+
+![Name of Link]({{ site.baseurl }}{{ page.post_image }})
 
 Tale is a minimal [Jekyll](https://jekyllrb.com/) theme curated for storytellers. It is designed and developed by [myself](https://github.com/chesterhow/) for a friend who writes short stories.
 
