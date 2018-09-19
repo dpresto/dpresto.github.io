@@ -12,7 +12,8 @@ Here's some content, I wonder how it will work… I need to figure out the markd
 
 ![Placeholder image](https://www.dropbox.com/s/oym199y3n5zvcuj/2016-07-25%2012.47.57.jpg?raw=1 "Placeholder image text"){:height="200px" width="200px"}
 
-![placeholder image]
+![Dom Headshot](/assets/dom_headshot_200_B&W.jpg)
+[Dom Headshot](/assets/dom_headshot_200_B&W.jpg)
 
 # vimeo
 <iframe src="https://player.vimeo.com/video/145221080" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
