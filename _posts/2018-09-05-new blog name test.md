@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Example Content"
+author: "Chester"
+---
+
 Here's some content, I wonder how it will work… I need to figure out the markdown styles for this.
 
 ![Placeholder image](https://www.dropbox.com/s/oym199y3n5zvcuj/2016-07-25%2012.47.57.jpg?raw=1 "Placeholder image text"){:height="200px" width="200px"}
