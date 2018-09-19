@@ -6,7 +6,8 @@ layout: default
   {% for post in paginator.posts %}
     <a href="{{ post.url | prepend: site.baseurl }}" class="catalogue-item">
       <div>
-        <img src="{{ site.baseurl }}{{ post.post_iamge }}" alt="post.alt_post_image">
+        <img src="{{ post.post_image | prepend: site.baseurl }}" alt="{{ post.alt_post_image }}">
+        <img src="{{ site.baseurl }}{{ post.post_image }}" alt="{{ post.alt_post_image }}">
         <time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%B %d, %Y" }}</time>
         <h1 class="catalogue-title">{{ post.title }}</h1>
         <div class="catalogue-line"></div>
