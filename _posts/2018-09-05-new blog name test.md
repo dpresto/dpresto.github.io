@@ -7,6 +7,7 @@ image: /assets/dom_headshot_200_B&W.jpg
 ---
 
 <h1>{{ page.image }}</h1>
+![Name of Link]({{ site.baseurl }}{{ page.image }})
 
 Here's some content, I wonder how it will work… I need to figure out the markdown styles for this.
 
