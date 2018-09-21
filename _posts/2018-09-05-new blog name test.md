@@ -3,7 +3,7 @@ layout: post
 title: "New post test 2"
 author: "Dominic"
 Published: false
-post_image: /assets/DSCN9532.JPG
+post_image: /assets/DSCN9532.png
 alt_post_image: Pacific Beach Crystal Pier
 ---
 
