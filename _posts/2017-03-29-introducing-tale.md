@@ -3,7 +3,7 @@ layout: post
 title: "Introducing Tale"
 author: "Chester"
 Published: false
-post_image: /assets/IMG_0579.JPG
+post_image: /assets/IMG_0579.png
 alt_post_image: Dom working
 ---
 
