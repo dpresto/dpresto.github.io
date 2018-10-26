@@ -6,6 +6,7 @@ permalink: /about/
 ---
 
 Design Everything
+
 Design is about improving the world. It is hope manifested. Design provides an avenue to explore issues and instigate progress, whether that be tangible, intangible, social, cultural, analog or digital. For me, design is everything.
 
 **As a humanist**, I strive to use design to improve the quality of life for my clients and their constituencies, whether they be customers, patients, end-users or the like. Humanity’s influence over our own environment is ever-present, and there is no reason why the same thoughtful intent that is put into carefully crafting a sculpture shouldn’t be put into all other systems that we have a hand in creating.
