@@ -14,10 +14,11 @@ permalink: /about/
   .item {
   float:left;
   width:33.33333%;
+  padding: 0 15px;
   }
   
   .group {
-  padding: 0 15px;
+  padding: 0 10px;
   }
   
 </style>
