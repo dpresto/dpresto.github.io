@@ -12,8 +12,8 @@ permalink: /about/
   }
   
   .item {
-  float=left;
-  width=33.33333%;
+  float:left;
+  width:33.33333%;
   }
   
   .group {
