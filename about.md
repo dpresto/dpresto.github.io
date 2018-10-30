@@ -17,7 +17,6 @@ permalink: /about/
   padding: 0 15px 16px;
   
   }
-  
 </style>
 
 ## Design Everything
