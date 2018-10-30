@@ -5,7 +5,7 @@ author: "DP"
 permalink: /about/
 ---
 <style>
-  @media only screen and (max-width:620px) {
+  @media only screen and (min-width:620px) {
   /* For mobile phones: */
   .menu, .main, .right {
     width:100%;
