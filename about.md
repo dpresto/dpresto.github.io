@@ -14,7 +14,7 @@ permalink: /about/
   .item {
   float:left;
   width:33.33333%;
-  padding: 0 15px;
+  padding: 0 15px 16px;
   
   }
   
@@ -38,7 +38,7 @@ Design is about improving the world. It is hope manifested. Design provides an a
     <h3>As an explorer</h3>
     I live for unforeseen circumstances. Our world is a chaotic system and thoughtful design can only account for so much change in so much time. Recognizing that technology can become antiquated in the time it takes to learn is to recognize the real constraint of time. There is only so much that can ever be known at any moment and being able to move skillfully in that uncertainty is the only way to move forward.
   </div>
-
+<div>
 It is through these lenses I view the world and my work. The inherent potential and uncertainty of the human condition pushes me to continue searching for new connection opportunities that will bring meaning to our lives. 
 
 If you have a project that aligns with this outlook, or you’d like it to, lets connect. I’m on twitter [@_dominicp](https://twitter.com/_dominicp "twitter link") and instagram at [@sweet.hunches](https://www.instagram.com/sweet.hunches/ "instagram link")
