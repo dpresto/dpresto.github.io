@@ -5,40 +5,26 @@ author: "DP"
 permalink: /about/
 ---
 
-.w3-row-padding {
-  padding: 0 8px;
-}
-
-.w3-third {
-  float:left;
-  width:100%;
-  }
-
-  
-@media (min-width: 601px)
-.w3-col.m4, .w3-third {
-    width: 33.3333333%;
-
 ## Design Everything
 
 Design is about improving the world. It is hope manifested. Design provides an avenue to explore issues and instigate progress, whether that be tangible, intangible, social, cultural, analog or digital. For me, design is everything.
 
 <div style="padding: 0 8px;">
-  <div style="float: left; width:100%;">
+  <div style="float: left; width:100%;" media="screen and (max-width: 600px)">
     <h2>London</h2>
     <p>London is the capital city of England.</p>
     <p>It is the most populous city in the United Kingdom,
     with a metropolitan area of over 13 million inhabitants.</p>
   </div>
 
-  <div style="float: left; width:100%;">
+  <div style="float: left; width:100%;" media="screen and (max-width: 600px)">
     <h2>Paris</h2>
     <p>Paris is the capital of France.</p> 
     <p>The Paris area is one of the largest population centers in Europe,
     with more than 12 million inhabitants.</p>
   </div>
 
-  <div style="float: left; width:100%;">
+  <div style="float: left; width:100%;" media="screen and (max-width: 600px)">
     <h2>Tokyo</h2>
     <p>Tokyo is the capital of Japan.</p>
     <p>It is the center of the Greater Tokyo Area,
