@@ -7,7 +7,7 @@ permalink: /about/
 <style>
   @media only screen and (min-width:620px) {
   /* For mobile phones: */
-    .3col {
+    .col3 {
       width:100%;
       padding: 0 0 16px;
     }
