@@ -6,8 +6,8 @@ permalink: /cv/
 ---
 
 ## Experience
-<sans>Director of Research and Experience Design</sans> <br>
-[Andculture](http://andculture.com "Andculture homepage") | Aug 2015 - Present
+<p><sans>Director of Research and Experience Design</sans> <br>
+[Andculture](http://andculture.com "Andculture homepage") | Aug 2015 - Present<p>
 
 #### Senior Experience Designer & Strategist <br>
 [Andculture](http://andculture.com "Andculture homepage") | Oct 2012 - Aug 2015
