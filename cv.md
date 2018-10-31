@@ -7,7 +7,12 @@ permalink: /cv/
 
 ## Experience
 <p><sans>Director of Research and Experience Design</sans> <br>
-  <a href="http://andculture.com" title="Andculture Homepage">Andculture</a> | Aug 2015 - Present </p>
+<a href="http://andculture.com" title="Andculture Homepage">Andculture</a> | Aug 2015 - Present <br>
+Lead four projects from concept definition through delivery. The first was for the creation of a
+new marketing website for an external client. I planned and conducted primary and secondary
+research using surveys and phone interviews to develop customer insights and industry trends.
+These were used both to develop client recommendations and website requirements.</p>
+
 
 <p><sans>Senior Experience Designer & Strategist</sans> <br>
 <a href="http://andculture.com" title="Andculture Homepage">Andculture</a> | Oct 2012 - Aug 2015 </p>
