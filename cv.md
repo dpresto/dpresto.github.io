@@ -6,7 +6,7 @@ permalink: /cv/
 ---
 
 ## Experience
-#### Director of Research and Experience Design <br>
+<p class="sans">Director of Research and Experience Design</p> <br>
 [Andculture](http://andculture.com "Andculture homepage") | Aug 2015 - Present
 
 #### Senior Experience Designer & Strategist <br>
