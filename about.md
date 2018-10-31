@@ -7,14 +7,15 @@ permalink: /about/
 <style>
   @media only screen and (min-width:620px) {
   /* For mobile phones: */
-
+  .item {
+    width:100%;
+    padding: 0 0 16px;
   }
   
   .item {
   float:left;
   width:33.33333%;
   padding: 0 15px 16px;
-  
   }
 </style>
 
