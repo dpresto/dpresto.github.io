@@ -5,16 +5,18 @@ author: "DP"
 permalink: /about/
 ---
 <style>
-  .col3 {
-    float:left;
-    width:33.33333%;
-    padding: 0 15px 16px;
   
-    @media (min-width:600px) {
-      width:100%;
-      padding: 0 0 16px;
-    }
+  .col3 {
+  float:left;
+  width:33.333333%
+  padding: 0 15px 16px
+
+  @media (min-width: 600px) {
+    width:100%
+    padding: 0 0 16px;
   }
+}
+
 </style>
 
 ## Design Everything
