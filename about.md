@@ -15,7 +15,7 @@ permalink: /about/
     width:100%;
     padding: 0 0 16px;
   }
-}
+
 
 </style>
 
