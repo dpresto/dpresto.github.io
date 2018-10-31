@@ -5,18 +5,15 @@ author: "DP"
 permalink: /about/
 ---
 <style>
-  @media only screen and (min-width:620px) {
-  /* For mobile phones: */
-    .col3 {
+  .col3 {
+    float:left;
+    width:33.33333%;
+    padding: 0 15px 16px;
+  
+    @media (min-width:600px) {
       width:100%;
       padding: 0 0 16px;
     }
-  }
-  
-  .col3 {
-  float:left;
-  width:33.33333%;
-  padding: 0 15px 16px;
   }
 </style>
 
