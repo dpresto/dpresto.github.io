@@ -7,7 +7,7 @@ permalink: /cv/
 [GitHub](https://github.com/chesterhow/tale)
 ## Experience
 ### Director of Research and Experience Design
-#### [Andculture] (http://andculture.com "Andculture") | Aug 2015 - Present
+[Andculture] (http://andculture.com "Andculture") | Aug 2015 - Present
 ### Senior Experience Designer & Strategist
 #### Andculture | Oct 2012 - Aug 2015
 ### Design Consultant
