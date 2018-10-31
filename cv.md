@@ -6,19 +6,19 @@ permalink: /cv/
 ---
 [GitHub](https://github.com/chesterhow/tale)
 ## Experience
-### Director of Research and Experience Design
-#### [Andculture](http://andculture.com "Andculture") | Aug 2015 - Present
+### Director of Research and Experience Design at [Andculture](http://andculture.com "Andculture homepage")
+Aug 2015 - Present
 
-### Senior Experience Designer & Strategist
-[Andculture](http://andculture.com "Andculture") | Oct 2012 - Aug 2015
+### Senior Experience Designer & Strategist at [Andculture](http://andculture.com "Andculture homepage")
+Oct 2012 - Aug 2015
 
-### Design Consultant
-#### Good Company Group | May 2012 - Aug 2012
+### Design Consultant at [GoodCompany Ventures](https://www.crunchbase.com/organization/goodcompany-ventures "GoodCompany Ventures Crunchbase page")
+May 2012 - Aug 2012
 
 ## Education
-### Masters of Design
-#### University of the Arts | 2012
+### Masters of Design at [University of the Arts](https://www.uarts.edu "UArts Homepage")
+2012
 
-### Bachelors of Science 
-#### Georgia Tech | 2006
+### Bachelors of Science at [Georgia Tech](https://www.gatech.edu "Georgia Tech Hompage")
+2006
 
