@@ -7,8 +7,7 @@ permalink: /about/
 <style>
   @media only screen and (min-width:620px) {
   /* For mobile phones: */
-  .menu, .main, .right {
-    width:100%;
+
   }
   
   .item {
