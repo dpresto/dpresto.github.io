@@ -4,7 +4,7 @@ title: "CV"
 author: "DP"
 permalink: /cv/
 ---
-[GitHub](https://github.com/chesterhow/tale)
+
 ## Experience
 ### Director of Research and Experience Design at [Andculture](http://andculture.com "Andculture homepage")
 Aug 2015 - Present
