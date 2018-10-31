@@ -4,7 +4,7 @@ title: "CV"
 author: "DP"
 permalink: /cv/
 ---
-<div class="col2"
+<div class="col2">
   <h2>Experience</h2>
   <p><sans>Director of Research and Experience Design</sans> <br>
   <a href="http://andculture.com" title="Andculture Homepage">Andculture</a> | Aug 2015 - Present <br>
