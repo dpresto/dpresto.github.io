@@ -7,13 +7,13 @@ permalink: /cv/
 
 ## Experience
 <p><sans>Director of Research and Experience Design</sans> <br>
-  <a href="http://andculture.com">Andculture</a> | Aug 2015 - Present </p>
+  <a href="http://andculture.com" title="Andculture Homepage">Andculture</a> | Aug 2015 - Present </p>
 
-#### Senior Experience Designer & Strategist <br>
-[Andculture](http://andculture.com "Andculture homepage") | Oct 2012 - Aug 2015
+<p><sans>Senior Experience Designer & Strategist</sans> <br>
+<a href="http://andculture.com" title="Andculture Homepage">Andculture</a> | Oct 2012 - Aug 2015 </p>
 
-#### Design Consultant <br>
-[GoodCompany Ventures](https://www.crunchbase.com/organization/goodcompany-ventures "GoodCompany Ventures Crunchbase page") | May 2012 - Aug 2012
+<p><sans>Design Consultant</sans> <br>
+<a href="https://www.crunchbase.com/organization/goodcompany-ventures" title="GoodCompany Ventures Crunchbase page">GoodCompany Ventures</a> | May 2012 - Aug 2012 </p>
 
 ## Education
 **Masters of Design** <br>
