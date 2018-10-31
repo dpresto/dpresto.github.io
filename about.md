@@ -7,15 +7,17 @@ permalink: /about/
 <style>
   
   .colthree {
-  float:left;
-  width:33.333333%;
-  padding: 0 15px 16px;
-
-  @media (min-width: 600px) {
-    width:100%;
-    padding: 0 0 16px;
+    float:left;
+    width:33.333333%;
+    padding: 0 15px 16px;
   }
 
+  @media (min-width: 600px) {
+    .colthree {
+      width:100%;
+      padding: 0 0 16px;
+    }
+  }
 
 </style>
 
