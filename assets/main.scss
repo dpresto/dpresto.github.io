@@ -117,3 +117,16 @@ code {
       padding: 0 15px 16px;
     }
   }
+
+ .col2 {
+    float:left;
+    width:100%;
+    padding: 0 0 16px;
+  }
+
+  @media (min-width: 700px) {
+    .col2 {
+      width:50%;
+      padding: 0 15px 16px;
+    }
+  }
