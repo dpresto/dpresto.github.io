@@ -12,7 +12,7 @@ permalink: /about/
     padding: 0 0 16px;
   }
 
-  @media (min-width: 600px) {
+  @media (min-width: 700px) {
     .col3 {
       width:33.333333%;
       padding: 0 15px 16px;
