@@ -8,11 +8,11 @@ permalink: /about/
   
   .col3 {
   float:left;
-  width:33.333333%
-  padding: 0 15px 16px
+  width:33.333333%;
+  padding: 0 15px 16px;
 
   @media (min-width: 600px) {
-    width:100%
+    width:100%;
     padding: 0 0 16px;
   }
 }
