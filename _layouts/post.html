@@ -20,7 +20,7 @@ layout: default
   <h1 class="post-title">{{ page.title }}</h1>
   <div class="post-line"></div>
     {% if page.post_image %}
-      ![{{page.alt_post_image}}]({{ site.baseurl }}{{ page.post_image }})
+      <img src="{{ post.post_image | prepend: site.baseurl }}" alt="{{ post.alt_post_image }}" style="width: 100%;">
     {% endif %}
   
     <div class="tight">
