@@ -7,7 +7,7 @@ post_image: /assets/DSCN9532.png
 alt_post_image: Pacific Beach Crystal Pier
 ---
 
-![Name of Link]({{ site.baseurl }}{{ page.post_image }})
+![{{page.alt_post_image}}]({{ site.baseurl }}{{ page.post_image }})
 
 Here's some content, I wonder how it will work… I need to figure out the markdown styles for this.
 
