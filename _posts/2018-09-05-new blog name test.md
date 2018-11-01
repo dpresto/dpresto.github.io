@@ -7,9 +7,9 @@ post_image: /assets/DSCN9532.png
 alt_post_image: Pacific Beach Crystal Pier
 ---
 
-</div>
+{::nomarkdown}</div>{:/}
 ![Placeholder image](https://placehold.it/800x400 "Placeholder image")
-<div class="tight">
+{::nomarkdown}<div class="tight">{:/}
 
 Here's some content, I wonder how it will work… I need to figure out the markdown styles for this.
 
