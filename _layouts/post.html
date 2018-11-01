@@ -19,8 +19,13 @@ layout: default
 
   <h1 class="post-title">{{ page.title }}</h1>
   <div class="post-line"></div>
-
-  {{ content }}
+    {% if page.post_image %}
+      ![{{page.alt_post_image}}]({{ site.baseurl }}{{ page.post_image }})
+    {% endif %}
+  
+    <div class="tight">
+      {{ content }}
+    </div>
 
 </div>
 
