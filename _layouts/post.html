@@ -21,7 +21,6 @@ layout: default
   <div class="post-line"></div>
     {% if page.post_image %}
       <img src="{{ page.post_image | prepend: site.url }}" alt="{{ page.alt_post_image }}" style="width: 100%;">
-      ![{{page.alt_post_image}}]({{ site.baseurl }}{{ page.post_image }})
     {% endif %}
   
     <div class="tight">
