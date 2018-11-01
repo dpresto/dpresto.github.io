@@ -2,14 +2,28 @@
 layout: default
 ---
 
+<style>
+  .tight {
+    max-width: 75%
+  }
+  
+  @media only screen and (min-width: 1024px) {
+    .tight {
+      max-width: 100%
+    }
+  }
+</style>
+
 <div class="catalogue">
   {% for post in paginator.posts %}
     <a href="{{ post.url | prepend: site.baseurl }}" class="catalogue-item">
       <div>
         <img src="{{ post.post_image | prepend: site.baseurl }}" alt="{{ post.alt_post_image }}" style="width: 100%;">
+        <div class="tight">
         <time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%B %d, %Y" }}</time>
         <h1 class="catalogue-title">{{ post.title }}</h1>
         <div class="catalogue-line"></div>
+        </div>
 
         <p>
           {{ post.content | strip_html | truncatewords: 30 }}
