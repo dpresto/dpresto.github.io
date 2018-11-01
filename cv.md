@@ -4,7 +4,7 @@ title: "CV"
 author: "DP"
 permalink: /cv/
 ---
-<div>
+<section>
 <div class="col2">
   <h2>Experience</h2>
   <p><sans>Director of Research and Experience Design</sans> <br>
@@ -27,5 +27,4 @@ permalink: /cv/
   <sans>Bachelors of Science</sans> <br>
   [Georgia Tech](https://www.gatech.edu "Georgia Tech Hompage") | 2006
 </div>
-<p>&nbsp;</p>
-</div>
+</section>
