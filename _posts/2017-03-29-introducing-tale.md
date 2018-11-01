@@ -7,8 +7,6 @@ post_image: /assets/IMG_0579.png
 alt_post_image: Dom working
 ---
 
-![Name of Link]({{ site.baseurl }}{{ page.post_image }})
-
 Tale is a minimal [Jekyll](https://jekyllrb.com/) theme curated for storytellers. It is designed and developed by [myself](https://github.com/chesterhow/) for a friend who writes short stories.
 
 ## Tale features
