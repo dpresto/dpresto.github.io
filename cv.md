@@ -27,4 +27,5 @@ permalink: /cv/
   <sans>Bachelors of Science</sans> <br>
   [Georgia Tech](https://www.gatech.edu "Georgia Tech Hompage") | 2006
 </div>
+<p>&nbsp; ( )</p>
 </section>
