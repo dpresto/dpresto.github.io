@@ -2,19 +2,6 @@
 layout: default
 ---
 
-<style>
-  .tight {
-    max-width: 100%;
-  }
-  
-  @media only screen and (min-width: 1024px) {
-    .tight {
-      max-width: 75%;
-      margin: 0 auto;
-    }
-  }
-</style>
-
 <div class="catalogue">
   {% for post in paginator.posts %}
     <a href="{{ post.url | prepend: site.baseurl }}" class="catalogue-item">
