@@ -21,11 +21,15 @@ layout: default
   <div class="post-line"></div>
     {% if page.post_image %}
       <img src="{{ page.post_image | prepend: site.url }}" alt="{{ page.alt_post_image }}" style="width: 100%;">
+      <br>
+      <div class="tight">
+        {{ content }}
+      </div>
+    {% else %}
+      {{ content }}
     {% endif %}
   
-    <div class="tight">
-      {{ content }}
-    </div>
+
 
 </div>
 
