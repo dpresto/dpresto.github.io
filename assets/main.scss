@@ -109,12 +109,23 @@ code {
 }
 
 /* new elements */
+.col2 {
+  float:left;
+  width:100%;
+  padding: 0 0 16px;
+}
+@media (min-width: 700px) {
+  .col2 {
+    width:50%;
+    padding: 0 15px 16px;
+  }
+}
+
 .col3 {
   float:left;
   width:100%;
   padding: 0 0 16px;
 }
-
 @media (min-width: 700px) {
   .col3 {
     width:33.333333%;
@@ -122,18 +133,42 @@ code {
   }
 }
 
-.col2 {
+.col4 {
   float:left;
   width:100%;
   padding: 0 0 16px;
 }
-
 @media (min-width: 700px) {
-  .col2 {
-    width:50%;
+  .col4 {
+    width:25%;
     padding: 0 15px 16px;
   }
 }
+
+.col23 {
+  float:left;
+  width:100%;
+  padding: 0 0 16px;
+}
+@media (min-width: 700px) {
+  .col23 {
+    width:66.666666%;
+    padding: 0 15px 16px;
+  }
+}
+
+.col34 {
+  float:left;
+  width:100%;
+  padding: 0 0 16px;
+}
+@media (min-width: 700px) {
+  .col34 {
+    width:75%;
+    padding: 0 15px 16px;
+  }
+}
+
 
 sans {
   font-family: "Helvetica Neue","Segoe UI",Helvetica,Arial,sans-serif;
