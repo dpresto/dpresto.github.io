@@ -16,14 +16,14 @@ permalink: /cv/
   Lead multi-disciplinary teams through the design and implementation of research methods </p>
 
   <p><sans>Lecturer, Art and Design Education Dept.</sans> <br> 
-  <a href="https://www.uarts.edu" title="UArts Homepage">University of the Arts | 2012 – 2014 <br>
+  <a href="https://www.uarts.edu" title="UArts Homepage">University of the Arts</a> | 2012 – 2014 <br>
     Taught two courses at the graduate level, Educational Media A and B, regarding the use of technology and the capabilities it affords in the classroom.</p>
 
   <p><sans>Design Consultant</sans> <br>
   <a href="https://www.crunchbase.com/organization/goodcompany-ventures" title="GoodCompany Ventures Crunchbase page">GoodCompany Ventures</a> | May 2012 - Aug 2012 </p>
 
   <p><sans>Co-Founder</sans> <br> 
-  <a href="https://thebdq.wordpress.com" title="The BDQ Homepage">The Business/Design Quad | 2011 – 2012 <br>
+  <a href="https://thebdq.wordpress.com" title="The BDQ Homepage">The Business/Design Quad</a> | 2011 – 2012 <br>
     Arranged and hosted events for business people and designers to engage in conversations focused around each others abilities, perspectives and expectations to ease anxieties and gain a better understanding each others roles.</p>
 
   <h2>Teaching</h2>
