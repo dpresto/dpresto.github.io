@@ -64,6 +64,7 @@ social-oriented startups.</p>
   * Teaching 
   * Rapid Prototyping 
   * Sales
-Bicycle Mechanic – Chitumbuka Language
+  * Bicycle Mechanic
+  * Chitumbuka Language
 </div>
  
