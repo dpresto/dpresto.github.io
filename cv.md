@@ -5,7 +5,6 @@ author: "DP"
 permalink: /cv/
 ---
 
-<div class="col2">
   <h2>Experience</h2>
   <p><sans>Director of Research and Experience Design</sans> <br>
   <a href="http://andculture.com" title="Andculture Homepage">Andculture</a> | Aug 2015 - Present <br>
@@ -37,10 +36,7 @@ social-oriented startups.</p>
   <a href="https://www.uarts.edu" title="UArts Homepage">University of the Arts</a> | 2012 – 2014 <br>
     Supported student’s project developments through critique and demonstration. Meeting with students we would discuss their current design challenge.</p>
 
-</div>
-
-<div class="col2">
-  <h2>Education</h2>
+  <br><h2>Education</h2>
   <sans>Masters of Design</sans> <br>
   <a href="https://www.uarts.edu" title="UArts Homepage">University of the Arts</a> | 2012 <br>
   <br>
@@ -53,5 +49,4 @@ Writing – Product Management – Information Architecture – Information Desi
 Public Speaking – Usability Testing – Storytelling – Teaching – Rapid Prototyping – Sales –
 Bicycle Mechanic – Chitumbuka Language
 
-</div>
  
