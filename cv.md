@@ -48,9 +48,24 @@ social-oriented startups.</p>
   <a href="https://www.gatech.edu" title="Georgia Tech Hompage">Georgia Tech</a> | 2006 </p>
 <br>
   <h2>Skills</h2>
-<p>Human Centered Design – Design Ethnography – Research – Experience Design – Facilitation –
-Writing – Product Management – Information Architecture – Information Design – Interaction Design –
-Public Speaking – Usability Testing – Storytelling – Teaching – Rapid Prototyping – Sales –
-Bicycle Mechanic – Chitumbuka Language</p>
+<ul>
+  <li>Human Centered Design</li>
+  <li>Design Ethnography</li>
+  <li>Research</li>
+  <li>Experience Design</li>
+  <li>Facilitation</li>
+  <li>Writing</li>
+  <li>Product Management</li>
+  <li>Information Architecture</li>
+  <li>Information Design</li>
+  <li>Public Speaking</li>
+  <li>Usability Testing</li>
+  <li>Storytelling</li>
+  <li>Teaching</li>
+  <li>Rapid Prototyping</li>
+  <li>Sales</li>
+  <li>Bicycle Mechanic</li>
+  <li>Chitumbuka Language</li>
+</ul>
 </div>
  
