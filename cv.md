@@ -7,36 +7,62 @@ permalink: /cv/
 <div class="col23">
   <h2>Experience</h2>
   <p><sans>Director of Research & Experience Design</sans> <br>
-  <a href="http://andculture.com" title="Andculture Homepage">Andculture</a> | Aug 2015 - Present <br>
+  <a href="http://andculture.com" title="Andculture's Homepage">Andculture</a> | Aug 2015 - Present <br>
   Managed a team of two other Research and Experience Designers and an intern, supporting their professional growth and maturity. This included a private discussion of a skills self-assessment, done on a rubric I created for tracking growth in the role.</p>
 
   <p><sans>Senior Experience Designer & Strategist</sans> <br>
-  <a href="http://andculture.com" title="Andculture Homepage">Andculture</a> | Oct 2012 - Aug 2015 <br>
+  <a href="http://andculture.com" title="Andculture's Homepage">Andculture</a> | Oct 2012 - Aug 2015 <br>
   Lead multi-disciplinary teams through the design and implementation of research methods </p>
 
-  <p><sans>Lecturer, Art and Design Education Dept.</sans> <br> 
-  <a href="https://www.uarts.edu" title="UArts Homepage">University of the Arts</a> | 2012 – 2014 <br>
-    Taught two courses at the graduate level, Educational Media A and B, regarding the use of technology and the capabilities it affords in the classroom.</p>
-
   <p><sans>Design Consultant</sans> <br>
-  <a href="https://www.crunchbase.com/organization/goodcompany-ventures" title="GoodCompany Ventures Crunchbase page">GoodCompany Ventures</a> | May 2012 - Aug 2012 <br>
+  <a href="https://www.crunchbase.com/organization/goodcompany-ventures" title="GoodCompany Ventures' Crunchbase page">GoodCompany Ventures</a> | May 2012 - Aug 2012 <br>
   Collaborated with business consultants to hone the business plan and investor pitch for three, early stage,
 social-oriented startups.</p>
 
   <p><sans>Co-Founder</sans> <br> 
-  <a href="https://thebdq.wordpress.com" title="The BDQ Homepage">The Business/Design Quad</a> | 2011 – 2012 <br>
+  <a href="https://thebdq.wordpress.com" title="The BDQ's Homepage">The Business/Design Quad</a> | Aug 2011 –  Aug 2012 <br>
     Arranged and hosted events for business people and designers to engage in conversations focused around each others abilities, perspectives and expectations to ease anxieties and gain a better understanding each others roles.</p>
-<br>
 
+  <p><sans>Corzo Fellow</sans> <br> 
+  <a href="https://www.fastcompany.com/3003867/how-marc-ecko-rebranding-venture-capital-artists-instigators" title="Fast Co. Article">Artists & Instigators</a> | May 2011 – Aug 2011 <br>
+    Collaborated with the General Partners to develop business strategies.</p>
+    
+  <p><sans>Lead Designer</sans> <br> 
+  <a href="https://dpresto.github.io" title="This same website">DominicP</a> | Nov 2008 - Aug 2010 <br>
+    Designed graphic identity systems and websites, primarily using the Wordpress CMS.</p>
+
+  <p><sans>Design Intern</sans> <br> 
+  <a href="http://www.studio318.com" title="Studio 318's Homepage">Studio 318</a> | Jan 2010 - May 2010 <br>
+    Collaborated with Creative Director to design logos, f lyers, and advertisements for a variety of clients.</p>
+    
+  <p><sans>Volunteer</sans> <br> 
+  <a href="https://www.peacecorps.gov" title="U.S. Peace Corps' Homepage">United States Peace Corps</a> | Oct 2006 - Oct 2010 <br>
+    Wrote a Chitumbuka language reference manual for volunteers. Also worked with local craftsmen to create a modular cargo system to increase load capacity of their bicycles which were their primary means of transportation.</p>
+
+<br>
   <h2>Teaching</h2>
   <p><sans>Guest Speaker</sans> <br>
-  <a href="https://community.mis.temple.edu" title="Temple MIS Dept. Homepage">MIS Dept., Fox School of Business, Temple</a> | Oct 2017 -  Aug 2018 <br>
+  <a href="https://community.mis.temple.edu" title="Temple MIS Dept.'s Homepage">MIS Dept., Fox School of Business, Temple</a> | Oct 2017 -  Aug 2018 <br>
   Managed a team of two other Research and Experience Designers and an intern, supporting their professional growth and maturity. This included a private discussion of a skills self-assessment, done on a rubric I created for tracking growth in the role.</p>
 
+  <p><sans>Lecturer, Art and Design Education Dept.</sans> <br> 
+  <a href="https://www.uarts.edu" title="UArts' Homepage">University of the Arts</a> | Aug 2012 – May 2014 <br>
+    Taught two courses at the graduate level, Educational Media A and B, regarding the use of technology and the capabilities it affords in the classroom.</p>
+
   <p><sans>Teaching Assistant</sans> <br> 
-  <a href="https://www.uarts.edu" title="UArts Homepage">University of the Arts</a> | 2012 – 2014 <br>
-    Supported student’s project developments through critique and demonstration. Meeting with students we would discuss their current design challenge.</p>
+  <a href="https://www.peacecorps.gov" title="U.S. Peace Corps' Homepage">United States Peace Corps</a> | Oct 2006 - Oct 2010 <br>
+    Taught Math for all grade levels and Physical Science for freshman. Additionally I Initiated a self-sustainable weekly math club; Created and lead four hour experiment-based workshops for students and teachers to promote interest in Math and Science.</p>
+
+  <p><sans>Teacher</sans> <br> 
+  <a href="https://www.uarts.edu" title="UArts' Homepage">University of the Arts</a> | Aug 2012 – May 2014 <br>
+    Taught two courses at the graduate level, Educational Media A and B, regarding the use of technology and the capabilities it affords in the classroom.</p>
 <br>
+
+  <h2>Community</h2>
+    <p><sans>Guest Speaker</sans> <br> 
+  <a href="https://sbdctech.com/EPIC/" title="EPIC's Homepage">EPIC SBDC</a> | 2017 <br>
+    Presented, as an industry expert, on the topics of design and business to local entrepreneurs.</p>
+
 </div>
 
 <div class="col3">
