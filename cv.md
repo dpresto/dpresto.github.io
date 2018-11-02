@@ -32,7 +32,7 @@ permalink: /cv/
   Managed a team of two other Research and Experience Designers and an intern, supporting their professional growth and maturity. This included a private discussion of a skills self-assessment, done on a rubric I created for tracking growth in the role.</p>
 
   <p><sans>Teaching Assistant</sans> <br> 
-  <a href="https://www.uarts.edu" title="UArts Homepage">University of the Arts | 2012 – 2014 <br>
+  <a href="https://www.uarts.edu" title="UArts Homepage">University of the Arts</a> | 2012 – 2014 <br>
     Supported student’s project developments through critique and demonstration. Meeting with students we would discuss their current design challenge.</p>
 
 </div>
