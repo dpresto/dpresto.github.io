@@ -37,11 +37,11 @@ social-oriented startups.</p>
     Supported student’s project developments through critique and demonstration. Meeting with students we would discuss their current design challenge.</p>
 <br>
   <h2>Education</h2>
-  <sans>Masters of Design</sans> <br>
-  <a href="https://www.uarts.edu" title="UArts Homepage">University of the Arts</a> | 2012 <br>
+  <p><sans>Masters of Design</sans> <br>
+  <a href="https://www.uarts.edu" title="UArts Homepage">University of the Arts</a> | 2012 </p>
   <br>
-  <sans>Bachelors of Science</sans> <br>
-  <a href="https://www.gatech.edu" title="Georgia Tech Hompage">Georgia Tech</a> | 2006
+  <p><sans>Bachelors of Science</sans> <br>
+  <a href="https://www.gatech.edu" title="Georgia Tech Hompage">Georgia Tech</a> | 2006 </p>
 <br>
   <h2>Skills</h2>
   Human Centered Design – Design Ethnography – Research – Experience Design – Facilitation –
