@@ -6,7 +6,7 @@ permalink: /cv/
 ---
 <div class="col23">
   <h2>Experience</h2>
-  <p><sans>Director of Research and Experience Design</sans> <br>
+  <p><sans>Director of Research & Experience Design</sans> <br>
   <a href="http://andculture.com" title="Andculture Homepage">Andculture</a> | Aug 2015 - Present <br>
   Managed a team of two other Research and Experience Designers and an intern, supporting their professional growth and maturity. This included a private discussion of a skills self-assessment, done on a rubric I created for tracking growth in the role.</p>
 
@@ -49,20 +49,22 @@ social-oriented startups.</p>
 <br>
   <h2>Skills</h2>
 <ul>
+  <li>Design Strategy</li>
   <li>Human Centered Design</li>
   <li>Design Ethnography</li>
-  <li>Research</li>
+  <li>UX Research</li>
   <li>Experience Design</li>
-  <li>Facilitation</li>
-  <li>Writing</li>
-  <li>Product Management</li>
   <li>Information Architecture</li>
+  <li>Facilitation</li>
+  <li>Usaibility Testing</li>
+  <li>Product Management</li>
   <li>Information Design</li>
+  <li>Teaching</li>
   <li>Public Speaking</li>
   <li>Usability Testing</li>
   <li>Storytelling</li>
-  <li>Teaching</li>
-  <li>Rapid Prototyping</li>
+  <li>Prototyping</li>
+  <li>Writing</li>
   <li>Sales</li>
   <li>Bicycle Mechanic</li>
   <li>Chitumbuka Language</li>
