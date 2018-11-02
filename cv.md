@@ -27,9 +27,7 @@ social-oriented startups.</p>
   <a href="https://thebdq.wordpress.com" title="The BDQ Homepage">The Business/Design Quad</a> | 2011 – 2012 <br>
     Arranged and hosted events for business people and designers to engage in conversations focused around each others abilities, perspectives and expectations to ease anxieties and gain a better understanding each others roles.</p>
 <br>
-</div>
 
-<div class="col3">
   <h2>Teaching</h2>
   <p><sans>Guest Speaker</sans> <br>
   <a href="https://community.mis.temple.edu" title="Temple MIS Dept. Homepage">MIS Dept., Fox School of Business, Temple</a> | Oct 2017 -  Aug 2018 <br>
@@ -39,6 +37,9 @@ social-oriented startups.</p>
   <a href="https://www.uarts.edu" title="UArts Homepage">University of the Arts</a> | 2012 – 2014 <br>
     Supported student’s project developments through critique and demonstration. Meeting with students we would discuss their current design challenge.</p>
 <br>
+</div>
+
+<div class="col3">
   <h2>Education</h2>
   <p><sans>Masters of Design</sans> <br>
   <a href="https://www.uarts.edu" title="UArts Homepage">University of the Arts</a> | 2012 </p>
