@@ -4,7 +4,7 @@ title: "CV"
 author: "DP"
 permalink: /cv/
 ---
-<div class="col2">
+<div class="col23">
   <h2>Experience</h2>
   <p><sans>Director of Research and Experience Design</sans> <br>
   <a href="http://andculture.com" title="Andculture Homepage">Andculture</a> | Aug 2015 - Present <br>
@@ -29,7 +29,7 @@ social-oriented startups.</p>
 <br>
 </div>
 
-<div class="col2">
+<div class="col3">
   <h2>Teaching</h2>
   <p><sans>Guest Speaker</sans> <br>
   <a href="https://community.mis.temple.edu" title="Temple MIS Dept. Homepage">MIS Dept., Fox School of Business, Temple</a> | Oct 2017 -  Aug 2018 <br>
