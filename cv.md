@@ -45,15 +45,15 @@ social-oriented startups.</p>
   <a href="https://community.mis.temple.edu" title="Temple MIS Dept.'s Homepage">MIS Dept., Fox School of Business, Temple</a> | Oct 2017 -  Aug 2018 <br>
   Managed a team of two other Research and Experience Designers and an intern, supporting their professional growth and maturity. This included a private discussion of a skills self-assessment, done on a rubric I created for tracking growth in the role.</p>
 
-  <p><sans>Lecturer, Art and Design Education Dept.</sans> <br> 
-  <a href="https://www.uarts.edu" title="UArts' Homepage">University of the Arts</a> | Aug 2012 – May 2014 <br>
+  <p><sans>Lecturer</sans> <br> 
+  <a href="https://www.uarts.edu" title="UArts' Homepage">Art and Design Education Dept., University of the Arts</a> | Aug 2012 – May 2014 <br>
     Taught two courses at the graduate level, Educational Media A and B, regarding the use of technology and the capabilities it affords in the classroom.</p>
 
-  <p><sans>Teaching Assistant</sans> <br> 
+  <p><sans>Teacher</sans> <br> 
   <a href="https://www.peacecorps.gov" title="U.S. Peace Corps' Homepage">United States Peace Corps</a> | Oct 2006 - Oct 2010 <br>
     Taught Math for all grade levels and Physical Science for freshman. Additionally I Initiated a self-sustainable weekly math club; Created and lead four hour experiment-based workshops for students and teachers to promote interest in Math and Science.</p>
 
-  <p><sans>Teacher</sans> <br> 
+  <p><sans>Teaching Assistant</sans> <br> 
   <a href="https://www.uarts.edu" title="UArts' Homepage">University of the Arts</a> | Aug 2012 – May 2014 <br>
     Taught two courses at the graduate level, Educational Media A and B, regarding the use of technology and the capabilities it affords in the classroom.</p>
 <br>
