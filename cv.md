@@ -20,7 +20,9 @@ permalink: /cv/
     Taught two courses at the graduate level, Educational Media A and B, regarding the use of technology and the capabilities it affords in the classroom.</p>
 
   <p><sans>Design Consultant</sans> <br>
-  <a href="https://www.crunchbase.com/organization/goodcompany-ventures" title="GoodCompany Ventures Crunchbase page">GoodCompany Ventures</a> | May 2012 - Aug 2012 </p>
+  <a href="https://www.crunchbase.com/organization/goodcompany-ventures" title="GoodCompany Ventures Crunchbase page">GoodCompany Ventures</a> | May 2012 - Aug 2012 <br>
+  Collaborated with business consultants to hone the business plan and investor pitch for three, early stage,
+social-oriented startups.</p>
 
   <p><sans>Co-Founder</sans> <br> 
   <a href="https://thebdq.wordpress.com" title="The BDQ Homepage">The Business/Design Quad</a> | 2011 – 2012 <br>
