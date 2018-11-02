@@ -109,31 +109,31 @@ code {
 }
 
 /* new elements */
- .col3 {
-    float:left;
-    width:100%;
-    padding: 0 0 16px;
-  }
+.col3 {
+  float:left;
+  width:100%;
+  padding: 0 0 16px;
+}
 
-  @media (min-width: 700px) {
-    .col3 {
-      width:33.333333%;
-      padding: 0 15px 16px;
-    }
+@media (min-width: 700px) {
+  .col3 {
+    width:33.333333%;
+    padding: 0 15px 16px;
   }
+}
 
- .col2 {
-    float:left;
-    width:100%;
-    padding: 0 0 16px;
-  }
+.col2 {
+  float:left;
+  width:100%;
+  padding: 0 0 16px;
+}
 
-  @media (min-width: 700px) {
-    .col2 {
-      width:50%;
-      padding: 0 15px 16px;
-    }
+@media (min-width: 700px) {
+  .col2 {
+    width:50%;
+    padding: 0 15px 16px;
   }
+}
 
 sans {
   font-family: "Helvetica Neue","Segoe UI",Helvetica,Arial,sans-serif;
@@ -141,7 +141,7 @@ sans {
   font-size: 16px;
 }
 
-@media (min-width: 600px)
+@media (min-width: 600px) {
   sans {
     font-size: 18px;
   }
