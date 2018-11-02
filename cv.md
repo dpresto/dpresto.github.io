@@ -26,8 +26,8 @@ social-oriented startups.</p>
   <p><sans>Co-Founder</sans> <br> 
   <a href="https://thebdq.wordpress.com" title="The BDQ Homepage">The Business/Design Quad</a> | 2011 – 2012 <br>
     Arranged and hosted events for business people and designers to engage in conversations focused around each others abilities, perspectives and expectations to ease anxieties and gain a better understanding each others roles.</p>
-
-  <br><h2>Teaching</h2>
+<br>
+  <h2>Teaching</h2>
   <p><sans>Guest Speaker</sans> <br>
   <a href="https://community.mis.temple.edu" title="Temple MIS Dept. Homepage">MIS Dept., Fox School of Business, Temple</a> | Oct 2017 -  Aug 2018 <br>
   Managed a team of two other Research and Experience Designers and an intern, supporting their professional growth and maturity. This included a private discussion of a skills self-assessment, done on a rubric I created for tracking growth in the role.</p>
@@ -35,15 +35,15 @@ social-oriented startups.</p>
   <p><sans>Teaching Assistant</sans> <br> 
   <a href="https://www.uarts.edu" title="UArts Homepage">University of the Arts</a> | 2012 – 2014 <br>
     Supported student’s project developments through critique and demonstration. Meeting with students we would discuss their current design challenge.</p>
-
-  <br><h2>Education</h2>
+<br>
+  <h2>Education</h2>
   <sans>Masters of Design</sans> <br>
   <a href="https://www.uarts.edu" title="UArts Homepage">University of the Arts</a> | 2012 <br>
   <br>
   <sans>Bachelors of Science</sans> <br>
   <a href="https://www.gatech.edu" title="Georgia Tech Hompage">Georgia Tech</a> | 2006
-
-  <br><h2>Skills</h2>
+<br>
+  <h2>Skills</h2>
   Human Centered Design – Design Ethnography – Research – Experience Design – Facilitation –
 Writing – Product Management – Information Architecture – Information Design – Interaction Design –
 Public Speaking – Usability Testing – Storytelling – Teaching – Rapid Prototyping – Sales –
