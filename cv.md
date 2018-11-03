@@ -12,7 +12,7 @@ permalink: /cv/
 
   <p><sans>Senior Experience Designer & Strategist</sans> <br>
   <a href="http://andculture.com" title="Andculture's Homepage">Andculture</a> | Oct 2012 - Aug 2015 <br>
-  Lead multi-disciplinary teams through the designing and implementing research plans, developing evidence-based insights, envisioning overarching strategies for client issues, and defining product requirements. Continued acting as product manager when applicable. </p>
+  Lead multi-disciplinary teams through the design and implementation of research plans, development of evidence-based insights, envisioning of overarching strategies for client issues, and defining product requirements. Continued acting as product manager when applicable. </p>
 
   <p><sans>Design Consultant</sans> <br>
   <a href="https://www.crunchbase.com/organization/goodcompany-ventures" title="GoodCompany Ventures' Crunchbase page">GoodCompany Ventures</a> | May 2012 - Aug 2012 <br>
@@ -86,6 +86,7 @@ social-oriented startups. </p>
   <li>Product Management</li>
   <li>Information Design</li>
   <li>Teaching</li>
+  <li>Mentoring</li>
   <li>Public Speaking</li>
   <li>Usability Testing</li>
   <li>Storytelling</li>
