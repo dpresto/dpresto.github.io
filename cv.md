@@ -21,7 +21,7 @@ social-oriented startups. </p>
 
   <p><sans>Co-Founder</sans> <br> 
   <a href="https://thebdq.wordpress.com" title="The BDQ's Homepage">The Business/Design Quad</a> | Aug 2011 –  Aug 2012 <br>
-    Advocated for a deeper understanding of the significance of business and design within practitioners of those roles by arranging and hosting events and writing. </p>
+    Advocated for a deeper understanding of the significance of business and design within practitioners of those roles through writing and the arrangement and hosting of events. </p>
 
   <p><sans>Corzo Fellow</sans> <br> 
   <a href="https://www.fastcompany.com/3003867/how-marc-ecko-rebranding-venture-capital-artists-instigators" title="Fast Co. Article">Artists & Instigators</a> | May 2011 – Aug 2011 <br>
