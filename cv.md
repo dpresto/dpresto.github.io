@@ -8,24 +8,24 @@ permalink: /cv/
   <h2>Experience</h2>
   <p><sans>Director of Research & Experience Design</sans> <br>
   <a href="http://andculture.com" title="Andculture's Homepage">Andculture</a> | Aug 2015 - Present <br>
-  Managed a team of two other Research and Experience Designers and an intern, supporting their professional growth and maturity. This included a private discussion of a skills self-assessment, done on a rubric I created for tracking growth in the role.</p>
+  Oversaw the RXD team, their development and their output. Developed a set of RXD-lead services including design research, strategic design, systems and processes audits, and design workshops. Evangelized team and company work as well as continued acting as an individual contributor.</p>
 
   <p><sans>Senior Experience Designer & Strategist</sans> <br>
   <a href="http://andculture.com" title="Andculture's Homepage">Andculture</a> | Oct 2012 - Aug 2015 <br>
-  Lead multi-disciplinary teams through the design and implementation of research methods </p>
+  Lead multi-disciplinary teams through the designing and implementing research plans, developing evidence-based insights, envisioning overarching strategies for client issues, and defining product requirements. Continued acting as product manager when applicable. </p>
 
   <p><sans>Design Consultant</sans> <br>
   <a href="https://www.crunchbase.com/organization/goodcompany-ventures" title="GoodCompany Ventures' Crunchbase page">GoodCompany Ventures</a> | May 2012 - Aug 2012 <br>
   Collaborated with business consultants to hone the business plan and investor pitch for three, early stage,
-social-oriented startups.</p>
+social-oriented startups. </p>
 
   <p><sans>Co-Founder</sans> <br> 
   <a href="https://thebdq.wordpress.com" title="The BDQ's Homepage">The Business/Design Quad</a> | Aug 2011 –  Aug 2012 <br>
-    Arranged and hosted events for business people and designers to engage in conversations focused around each others abilities, perspectives and expectations to ease anxieties and gain a better understanding each others roles.</p>
+    Advocated for a deeper understanding of the significance of business and design within practitioners of those roles by arranging and hosting events and writing. </p>
 
   <p><sans>Corzo Fellow</sans> <br> 
   <a href="https://www.fastcompany.com/3003867/how-marc-ecko-rebranding-venture-capital-artists-instigators" title="Fast Co. Article">Artists & Instigators</a> | May 2011 – Aug 2011 <br>
-    Collaborated with the General Partners to develop business strategies.</p>
+    Collaborated with the General Partners to develop business strategies. </p>
     
   <p><sans>Lead Designer</sans> <br> 
   <a href="https://dpresto.github.io" title="This same website">DominicP</a> | Nov 2008 - Aug 2010 <br>
@@ -33,7 +33,7 @@ social-oriented startups.</p>
 
   <p><sans>Design Intern</sans> <br> 
   <a href="http://www.studio318.com" title="Studio 318's Homepage">Studio 318</a> | Jan 2010 - May 2010 <br>
-    Collaborated with Creative Director to design logos, f lyers, and advertisements for a variety of clients.</p>
+    Collaborated with Creative Director to design logos, flyers, and advertisements for a variety of clients.</p>
     
   <p><sans>Volunteer</sans> <br> 
   <a href="https://www.peacecorps.gov" title="U.S. Peace Corps' Homepage">United States Peace Corps</a> | Oct 2006 - Oct 2010 <br>
