@@ -66,8 +66,8 @@ social-oriented startups. </p>
 <h2>Presentations</h2>
 <p><sans>Goals Vs Reality (vs Reality)</sans> <br>
   <a href="https://vimeo.com/145221080" title="Healthcare Analytics Dashbaord Design - PhillyChi 2015 Show and Tell
- Vimeo page">PhillyCHI Show and Tell</a> | Sep 2015
-  Discussed strategies for creating actionable information visualizations with real-time data based on experiences designing a tool for healthcare professionals to assess their staffing.  
+ Vimeo page">PhillyCHI Show and Tell</a> | Sep 2015 <br>
+  Discussed strategies for creating actionable information visualizations with real-time data based on experiences designing a tool for healthcare professionals to assess their staffing.</p>  
 </div>
 
 <div class="col3">
