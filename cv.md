@@ -68,10 +68,12 @@ social-oriented startups. </p>
 <div class="col3">
   <h2>Education</h2>
   <p><sans>Masters of Design</sans> <br>
-  <a href="https://www.uarts.edu" title="UArts Homepage">University of the Arts</a> | 2012 </p>
+  <a href="https://www.uarts.edu" title="UArts Homepage">University of the Arts</a> | 2012 <br>
+  Focus: Design Thinking </p>
   
   <p><sans>Bachelors of Science</sans> <br>
-  <a href="https://www.gatech.edu" title="Georgia Tech Hompage">Georgia Tech</a> | 2006 </p>
+  <a href="https://www.gatech.edu" title="Georgia Tech Hompage">Georgia Tech</a> | 2006 <br>
+  Major: Aerospace Engineering </p>
 <br>
   <h2>Skills</h2>
 <ul>
