@@ -60,9 +60,14 @@ social-oriented startups. </p>
 
   <h2>Community</h2>
     <p><sans>Guest Speaker</sans> <br> 
-  <a href="https://sbdctech.com/EPIC/" title="EPIC's Homepage">EPIC SBDC</a> | 2017 <br>
+  <a href="https://sbdctech.com/EPIC/" title="EPIC's Homepage">EPIC SBDC</a> | Sep 2018 <br>
     Presented, as an industry expert, on the topics of design and business to local entrepreneurs.</p>
-
+<br>
+<h2>Presentations</h2>
+<p><sans>Goals Vs Reality (vs Reality)</sans> <br>
+  <a href="https://vimeo.com/145221080" title="Healthcare Analytics Dashbaord Design - PhillyChi 2015 Show and Tell
+ Vimeo page">PhillyCHI Show and Tell</a> | Sep 2015
+  Discussed strategies for creating actionable information visualizations with real-time data based on experiences designing a tool for healthcare professionals to assess their staffing.  
 </div>
 
 <div class="col3">
