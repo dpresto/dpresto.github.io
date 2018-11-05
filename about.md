@@ -7,7 +7,7 @@ permalink: /about/
 
 ## Design Everything
 
-Design is about improving the world. It is hope manifested. Design provides an avenue to explore issues and instigate progress, whether that be tangible, intangible, social, cultural, analog or digital. For me, design is everything.
+Design is about improving the world. It is hope manifested. Design provides an avenue to explore issues and instigate progress, whether that be tangible, social, cultural, analog or digital. For me, design is everything.
 
   <div class="col3">
     <h3>As a humanist</h3>
