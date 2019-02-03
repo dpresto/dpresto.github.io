@@ -1,9 +1,9 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
-# blue: #1b167c | #1606a6 | #171a5a | … | #031482 | #0019b9
-# white: #f7e0d0 | #dcd4d4 | #dfdcd6 | #e0dee9
-# yellow: #fed984 | #caa22b
-# red: #a11309 | #af0006 | #d00000
+# blue: #0019b9
+# white: #faf9f7
+# yellow: #FFFF00
+# red: #d00000
 ---
 
 @import 'tale';
@@ -18,8 +18,18 @@ body {
     color: #0019b9;
 }
 
-a {
-    color: #d00000;
+a:link, a:visited {
+  color: #0019b9;
+  transition: all .3s ease;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  background-image: linear-gradient(to bottom,transparent 0,transparent 45%,#FFFF00 45%,#FFFF00 45%,#FFFF00 55%,#FFFF00 55%,transparent 55%,transparent 100%);
+}
+
+
+a:hover, a:active {
+  background-color: #FFFF00;
 }
 
 post-line {
