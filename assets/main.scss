@@ -2,7 +2,7 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 # blue: #0019b9
 # white: #faf9f7
-# yellow: #FFFF00
+# yellow: #eafb2d
 # red: #d00000
 ---
 
@@ -24,12 +24,13 @@ a:link, a:visited {
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  background-image: linear-gradient(to bottom,transparent 0,transparent 45%,#FFFF00 45%,#FFFF00 45%,#FFFF00 55%,#FFFF00 55%,transparent 55%,transparent 100%);
+  background-image: linear-gradient(to bottom,transparent 0,transparent 45%,#eafb2d 45%,#eafb2d 45%,#eafb2d 55%,#FFeafb2dFF00 55%,transparent 55%,transparent 100%);
 }
 
 
 a:hover, a:active {
-  background-color: #FFFF00;
+  background-color: #eafb2d;
+  text-decoration: none;
 }
 
 post-line {
