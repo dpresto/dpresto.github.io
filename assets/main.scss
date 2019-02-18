@@ -18,7 +18,7 @@ body {
     color: #0019b9;
 }
 
-a:link, a:visited {
+.post a:link, a:visited {
   color: #0019b9;
   transition: all .3s ease;
   text-align: center;
@@ -29,7 +29,7 @@ a:link, a:visited {
 }
 
 
-a:hover, a:active {
+.post a:hover, a:active {
   background-color: #eafb2d;
   text-decoration: none;
 }
