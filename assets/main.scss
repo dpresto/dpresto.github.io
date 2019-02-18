@@ -18,6 +18,14 @@ body {
     color: #0019b9;
 }
 
+a {
+    color: #d00000;
+}
+
+a:active {
+  color: #0019b9;
+}
+  
 .post a:link, a:visited {
   color: #0019b9;
   transition: all .3s ease;
