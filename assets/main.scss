@@ -24,6 +24,7 @@ a:link, a:visited {
   text-align: center;
   text-decoration: none;
   display: inline-block;
+  background-image: -webkit-gradient(linear,left top,left bottom,from(transparent),color-stop(45%,transparent),color-stop(45%,#eafb2d),color-stop(45%,#eafb2d),color-stop(55%,#eafb2d),color-stop(55%,#eafb2d),color-stop(55%,transparent),to(transparent));
   background-image: linear-gradient(to bottom,transparent 0,transparent 45%,#eafb2d 45%,#eafb2d 45%,#eafb2d 55%,#FFeafb2dFF00 55%,transparent 55%,transparent 100%);
 }
 
