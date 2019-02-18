@@ -17,14 +17,6 @@ body {
 .post-title {
     color: #0019b9;
 }
-
-a {
-    color: #d00000;
-}
-
-a:active {
-  color: #0019b9;
-}
   
 .post a:link, a:visited {
   color: #0019b9;
@@ -67,6 +59,10 @@ h1, h2, h3, h4, h5, h6 {
 
 .nav a {
     color: #0019b9;
+}
+
+.nav a:active {
+  color: #0019b9;;
 }
 
 .nav li {
