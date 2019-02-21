@@ -8,10 +8,6 @@
 
 @import 'tale';
 
-:root {
-  --mainColor: #0019b9;
-}
-
 body {
   background-color: #faf9f7;
   color: #0019b9;
@@ -20,7 +16,11 @@ body {
 .post-title {
     color: #0019b9;
 }
-  
+ 
+:root {
+  --mainColor: #0019b9;
+}
+
 .post a {
   background: linear-gradient(to bottom, var(--mainColor) 0%, var(--mainColor) 100%);
 	background-position: 0 92%;
