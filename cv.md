@@ -46,7 +46,7 @@ social-oriented startups. </p>
   Managed a team of two other Research and Experience Designers and an intern, supporting their professional growth and maturity. This included a private discussion of a skills self-assessment, done on a rubric I created for tracking growth in the role.</p>
 
   <p><sans>Lecturer</sans> <br> 
-  <a href="https://www.uarts.edu" title="UArts' Homepage">Art and Design Education Dept., University of the Arts</a> | Aug 2012 – May 2014 <br>
+  <a href="https://www.uarts.edu" title="UArts' Homepage">Art & Design Ed Dept., University of the Arts</a> | Aug 2012 – May 2014 <br>
     Taught two courses at the graduate level, Educational Media A and B, regarding the use of technology and the capabilities it affords in the classroom.</p>
 
   <p><sans>Teacher</sans> <br> 
