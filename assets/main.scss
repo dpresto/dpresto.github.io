@@ -215,13 +215,13 @@ sans {
 
 .tight {
   max-width: 100%;
-  margin: 1rem 0 0 0;
+  margin: 2rem 0 0 0;
 }
 
 @media (min-width: 1024px) {
   .tight {
     max-width: 75%;
-    margin: 1rem auto;
+    margin: 2rem auto 0px;
   }
 }
  
