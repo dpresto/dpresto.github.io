@@ -8,7 +8,7 @@ post_cap: Image courtesy of Nicolas Coia
 alt_post_image: A photo of a home office reconfigured for a remote interview
 ---
 
-Edit test: Remote work is can be great, but getting that gig is will likely be harder to do. Without the constraints of geography, the sky is the limit to who can apply. Jobs that otherwise might have only merited 15 or so applicants, now can get hundreds. Therefore it is that much more challenging to standout.
+Remote work is can be great, but getting that gig is will likely be harder to do. Without the constraints of geography, the sky is the limit to who can apply. Jobs that otherwise might have only merited 15 or so applicants, now can get hundreds. Therefore it is that much more challenging to standout.
 
 As someone who's been working remote for years, I've learned through trial and error what makes for the best experience for someone on the other end of the call. Below I've outlined some of the key pieces that can help anyone nail it.
 
