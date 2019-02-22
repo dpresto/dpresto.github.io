@@ -32,6 +32,6 @@ You're literally sitting at your computer. Be prepared with additional materials
 
 Be punctual. In a normal meeting it's real odd if you just stood outside the door waiting until the exact minute to enter. But that's exactly what you should do here. Obviously clocks vary a bit, but never be late, clearly. If it's a new system you're using (say you're setup with webex and the invite is for zoom) then consider giving yourself a few minutes as buffer to figure that part out and make sure you can get on ok, otherwise you'll be getting an email soon asking if you're still ok for that time…no one wants to send that email, and no one wants to get it.
 
-Don't be afraid to drag your desk around, sit on a trunk in the hall or whatever you need to do to get these pieces right. Individually they improve the experience, all together they up your percieved experience. Both is really what you want.
+Don't be afraid to drag your desk around, sit on a trunk in the hall or whatever you need to do to get these pieces right. Individually they improve the call experience, all together they up your percieved remote-work experience. Both is really what you want.
 
 In summary, will these things replace a good portflio? No. Will they make the answers you give to the interviewers obtuse questions any better? No. They will, however, give you a leg up by _showing_ your interviewer that presenting (and by extension, working) remotely isn't a problem. 
