@@ -28,7 +28,7 @@ layout: default
       <div class="tight">
         {{ content }}
       </div>
-    {% else if page.post_image %}
+    {% elsif page.post_image %}
       <img src="{{ page.post_image | prepend: site.url }}" alt="{{ page.alt_post_image }}" style="width: 100%;">
       <br>
       <div class="tight">
