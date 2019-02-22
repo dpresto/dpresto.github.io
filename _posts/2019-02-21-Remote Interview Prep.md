@@ -3,7 +3,7 @@ layout: post
 title: "How to Properly Prepare for a Remote Interview"
 author: "Dominic"
 Published: false
-post_image: /assets/Interview_setup.png
+post_image: /assets/interview_setup.png
 alt_post_image: A photo of a home office reconfigured for a remote interview
 ---
 
