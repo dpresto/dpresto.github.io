@@ -22,7 +22,9 @@ This definition of craftsmanship being able to create exactly to the vision can 
 A few skills include:
 
 * Appropriateness — One’s ability to apply the best interaction or framework for the situation when designing. This has a cultural element to it that means it can’t be objectively qualified, but provides a valuable lens for qualifying craftsmanship.
+
 * Precision — Specifically, in terms of implementation of a certain type of experience, e.g., interface interaction type, messaging, etc. Therefore, delivering the right experience at the right moment. In context, this could be seen as “right-sizing” or something having “perfect timing.” It just depends on the artifact.
+
 * Consistency — Reliably delivering against predefined expectations. The digital experience we create should be both a world in and of itself, but also a citizen of the larger digital world in which it lives. We should recognize that just as our analog world delivers consistency in terms of gravity, and the phases of matter, our digital experience should as well. Tactically, this means, buttons that look the same should work the same, the timing of alerts should be based on the same triggers, etc.
 
 I don’t hold any illusion to thinking that this list of three items is somehow comprehensive. If you have any thoughts or suggestions on how this could be expanded upon (or how my assumptions are fatally flawed), please let me know on [Twitter @_dominicp](https://www.twitter.com/_dominicp/).
