@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to Properly Prepare for a Remote Interview"
+title: "How to Properly Setup for a Remote Interview"
 author: "Dominic"
 Published: false
 post_image: /assets/interview_setup.png
