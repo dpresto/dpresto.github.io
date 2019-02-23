@@ -6,8 +6,12 @@ permalink: /cv/
 ---
 <div class="col23">
   <h2>Experience</h2>
+  <p><sans>UX Architect</sans> <br>
+  <a href="https://www.contrastsecurity.com/" title="Contrast Security's Homepage">Contrast Security</a> | Feb 2019 - Present <br>
+ Conducted qualitative and quantitative design research to define clear problem statements, collaborate with team members to design sensible workflows and build prototypes to validate them, and work with engineers solidify associated business requirements.</p>
+  
   <p><sans>Director of Research & Experience Design</sans> <br>
-  <a href="http://andculture.com" title="Andculture's Homepage">Andculture</a> | Aug 2015 - Present <br>
+  <a href="http://andculture.com" title="Andculture's Homepage">Andculture</a> | Aug 2015 - Feb 2019 <br>
   Oversaw the RXD team, their development and their output. Developed a set of RXD-lead services including design research, strategic design, systems and processes audits, and design workshops. Evangelized team and company work as well as continued acting as an individual contributor.</p>
 
   <p><sans>Senior Experience Designer & Strategist</sans> <br>
