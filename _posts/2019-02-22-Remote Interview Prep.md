@@ -12,12 +12,12 @@ Remote work is can be great, but getting that gig is will likely be harder to do
 
 As someone who's been working remote for years, I've learned through trial and error what makes for the best experience for someone on the other end of the call. Below I've outlined some of the key pieces that can help anyone nail it.
 
-### Audio
+## Audio
 * Yes, use headphones. They make you sound better, allow you to hear better and remove the chance of feedback for your fellow interlocutor. Bluetooth are great, but wired removes any connectivity issues. Big noise cancelling ones are totally fine, though if you're between two pairs go with the visually smaller ones.
 
 * Mute yourself if someone else is talking for an extended period of time, background noise such as car alarms, police sirens or even your keyboard (when you're taking notes or live-tweeting) can be distracting. This is particularly importanton conference calls.
 
-### Video
+## Video
 * Do your best to get your camera at eye level. It makes it feel much more like you're having a real conversation witih a person, not the strange tech-dependent information exchange that it is. Consider newscasters, they look straight at the camera, not up or down—it's best that way. This could mean, putting your laptop on some books and minimizing your use of keyboard and trackpad for a bit, or getting an external camera and putting it on top of an external monitor. 
 
 * Up your background game. Consider what's behind you and how adding plants, books, or art may improve things. A random view of your kitchen, or a blank wall that makes you look like you're in a closet or basement can make the other person feel awkward or uncomfrtable. 
@@ -26,7 +26,7 @@ As someone who's been working remote for years, I've learned through trial and e
 
 * Wear dark, solid colors; it's always a good idea. Generally speaking with the state of technology and the internet these days, you can wear whatever. That said, traditionally, dark conveys confidence, and solid minimizes visual noise that the technology will struggle comparitively to convey accurately. So save the vibrant plaids and Hawaiian shirts for _after_ you're hired.
 
-### Other stuff
+## Other stuff
 * If you're presenting and have the ability to use one monitor to screenshare the presentation full screen and the other to have your notes ready, do it, it is amazing. (if you're planning on reading your notes verbatim, make sure to write them uing as natural language as possible).
 
 * Make good use of the fact that you're literally sitting at your computer. Be prepared with additional materials to show that can support other points you may want to make. Have your questions for them written and at hand. Consider taking notes on the computer, instead of a notebook (but be mindful of the noise the keyboard may make).
