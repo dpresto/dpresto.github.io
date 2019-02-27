@@ -3,6 +3,15 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   {% if page.title == "Home" %}
     <meta name="description" content="{{ site.description }}">
+  {% elsif %}
+    <!--Twitter-->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:domain" value="{{ site.baseurl }}" />
+  <meta name="twitter:site" content="@nytimes">
+  <meta name="twitter:creator" content="@_dominicpr">
+  <meta name="twitter:title" content="{{ page.title }}">
+  <meta name="twitter:description" content="Here's some content period.">
+  <meta name="twitter:image" content="{{ post.post_image | prepend: site.baseurl }}">
   {% endif %}
 
   <title>
@@ -12,15 +21,6 @@
       {{ page.title }} &middot; {{ site.title }}
     {% endif %}
   </title>
-
-  <!--Twitter-->
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:domain" value="{{ site.baseurl }}" />
-  <meta name="twitter:site" content="@nytimes">
-  <meta name="twitter:creator" content="@_dominicpr">
-  <meta name="twitter:title" content="{{ page.title }}">
-  <meta name="twitter:description" content="Here's some content period.">
-  <meta name="twitter:image" content="{{ post.post_image | prepend: site.baseurl }}">
   
   <!-- CSS -->
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
