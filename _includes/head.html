@@ -9,8 +9,8 @@
   <meta name="twitter:site" content="@nytimes">
   <meta name="twitter:creator" content="@_dominicp">
   <meta name="twitter:title" content="{{ page.title }}">
-  <meta name="twitter:description" content="{{ post.content | strip_html | truncatewords: 30 }}">
-  <meta name="twitter:image" content="{{ post.post_image | prepend: site.baseurl }}">
+  <meta name="twitter:description" content="{{ page.content | strip_html | truncatewords: 30 }}">
+  <meta name="twitter:image" content="{{ page.post_image | absolute_url }}">
   {% endif %}
 
   <title>
@@ -22,8 +22,8 @@
   </title>
   <meta property="og:title" content="{{ page.title }}" />
   <meta property="og:type" content="website" />
-  <meta property="og:url" content="{{ post.content | strip_html | truncatewords: 30 }}" />
-  <meta property="og:image" content="{{ post.post_image | prepend: site.baseurl }}" />
+  <meta property="og:url" content="{{ site.baseurl }}" />
+  <meta property="og:image" content="{{ page.post_image | prepend: site.baseurl }}" />
   
   <!-- CSS -->
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
