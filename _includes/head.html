@@ -4,9 +4,8 @@
   {% if page.title == "Home" %}
     <meta name="description" content="{{ site.description }}">
   {% else %}
-  <meta name="twitter:card" content="summary">
-  <meta name="twitter:domain" value="{{ site.baseurl }}" />
-  <meta name="twitter:site" content="@nytimes">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:domain" value="{{ absolute_url }}" />
   <meta name="twitter:creator" content="@_dominicp">
   <meta name="twitter:title" content="{{ page.title }}">
   <meta name="twitter:description" content="{{ page.content | strip_html | truncatewords: 30 }}">
@@ -20,10 +19,6 @@
       {{ page.title }} &middot; {{ site.title }}
     {% endif %}
   </title>
-  <meta property="og:title" content="{{ page.title }}" />
-  <meta property="og:type" content="website" />
-  <meta property="og:url" content="{{ site.baseurl }}" />
-  <meta property="og:image" content="{{ page.post_image | prepend: site.baseurl }}" />
   
   <!-- CSS -->
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
