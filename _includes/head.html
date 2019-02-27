@@ -13,6 +13,14 @@
     {% endif %}
   </title>
 
+  <!--Twitter-->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@nytimes">
+  <meta name="twitter:creator" content="@_dominicpr">
+  <meta name="twitter:title" content="{{ page.title }}">
+  <meta name="twitter:description" content="{{ post.content | strip_html | truncatewords: 30 }}">
+  <meta name="twitter:image" content="{{ post.post_image | prepend: site.baseurl }}">
+  
   <!-- CSS -->
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Libre+Baskerville:400,400i,700">
