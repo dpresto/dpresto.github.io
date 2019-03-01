@@ -13,6 +13,17 @@ body {
   color: #0019b9;
 }
 
+blockquote {
+    border-left: 0.25rem solid #0019b9;
+    color: #0019b9;
+    margin: 2rem 0 2rem 0rem;
+    padding: .5rem 1rem;
+    background-color: #faf9f7;
+    text-transform: uppercase;
+    font-family: "Helvetica Neue","Segoe UI",Helvetica,Arial,sans-serif;
+    font-weight: bold;
+}
+
 .post-title {
     color: #0019b9;
 }
