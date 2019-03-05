@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "projects"
+title: "yup"
 author: "DP"
-permalink: /projects/
 ---
 
 Yup
