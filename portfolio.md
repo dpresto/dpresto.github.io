@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "projects"
+title: "Work"
 author: "DP"
-permalink: /portfolio/
+permalink: /work/
 ---
 
 see [https://dpresto.github.io/portfolio/sample-project](https://dpresto.github.io/portfolio/sample-project)
