@@ -2,3 +2,33 @@
 layout: default
 ---
 
+<div class="catalogue">
+  {% for post in paginator.posts %}
+    <a href="{{ work.url | prepend: site.baseurl }}" class="catalogue-item">
+      <div>
+        <img src="{{ work.post_image | prepend: site.baseurl }}" alt="{{ work.alt_post_image }}" style="width: 100%;">
+        <div class="tight">
+        <time datetime="{{ work.date }}" class="catalogue-time">{{ work.date | date: "%B %d, %Y" }}</time>
+        <h1 class="catalogue-title">{{ work.title }}</h1>
+        <div class="catalogue-line"></div>
+
+        <p>
+          {{ work.content | strip_html | truncatewords: 30 }}
+        </p>
+        </div>
+
+      </div>
+    </a>
+  {% endfor %}
+</div>
+
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="left arrow">&#8592; prev</a>
+  {% endif %}
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="right arrow">next &#8594;</a>
+  {% endif %}
+
+  <span>{{ paginator.page }}</span>
+</div>
