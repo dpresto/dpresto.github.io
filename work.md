@@ -1,4 +1,6 @@
 ---
 layout: gallery
-title: Work
+title: "Work"
+author: "DP"
+permalink: /work/
 ---
