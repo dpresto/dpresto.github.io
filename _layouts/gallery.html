@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="catalogue">
-    {% for post in paginator.work %}
+    {% for work in paginator.work %}
     <a href="{{ work.url | prepend: site.baseurl }}" class="catalogue-item">
       <div>
         <img src="{{ work.post_image | prepend: site.baseurl }}" alt="{{ work.alt_post_image }}" style="width: 100%;">
