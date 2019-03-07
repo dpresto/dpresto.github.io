@@ -8,28 +8,46 @@
 
 @import 'tale';
 
-body {
-  background-color: #faf9f7;
-  color: #0019b9;
-}
+// Colors
+	$default-color: #0019b9;
+	$default-shade: #0019b9;
+	$default-tint: #0019b9;
+	$grey-1: #979797;
+	$grey-2: #e5e5e5;
+	$grey-3: #f3f2f2;
+	$white: #faf9f7;
+	$blue: #4a9ae1;
+	$shadow-color: rgba(0, 0, 0, .2);
+	$code-color: #bf616a;
+
+// Fonts
+	$serif-primary: 'Libre Baskerville', 'Times New Roman', Times, serif;
+	$serif-secondary: Palatino, 'Palatino LT STD', 'Palatino Linotype', 'Book Antiqua', 'Georgia', serif;
+	$sans-serif: 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, sans-serif;
+	$monospaced: Menlo, Monaco, monospace;
+
+// body {
+//   background-color: #faf9f7;
+//   color: #0019b9;
+// }
 
 blockquote {
-    border-left: 0.25rem solid #0019b9;
-    color: #0019b9;
+    border-left: 0.25rem solid $default-color;
+    color: $default-color;
     margin: 2rem 0 2rem 0rem;
     padding: .5rem 1rem;
-    background-color: #faf9f7;
+    background-color: $white;
     text-transform: uppercase;
-    font-family: "Helvetica Neue","Segoe UI",Helvetica,Arial,sans-serif;
+    font-family: $sans-serif;
     font-weight: bold;
 }
 
-.post-title {
-    color: #0019b9;
-}
+// .post-title {
+//     color: #0019b9;
+// }
  
 :root {
-  --mainColor: #0019b9;
+  --mainColor: $default-color;
 }
 
 .post a {
@@ -37,7 +55,7 @@ blockquote {
 	background-position: 0 92%;
 	background-repeat: repeat-x;
 	background-size: 1px 1px;
-  color: #0019b9;
+  color: $default-color;
   text-decoration: none;
 }
 
@@ -49,9 +67,9 @@ blockquote {
   text-decoration: none;
 }
 
-post-line {
-    border-top: 0.4rem solid #0019b9;
-}
+// post-line {
+//    border-top: 0.4rem solid #0019b9;
+// }
 
 .post p {
     margin: 0 0 1rem;
@@ -59,7 +77,7 @@ post-line {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    color: #0019b9;
+//    color: $default-shade;
     font-weight: bold;
     margin: 16px 0
 }
@@ -68,20 +86,20 @@ h1, h2, h3, h4, h5, h6 {
     box-shadow: 0 2px 2px -1px #c0c4e9;
 }
 
-.nav-title {
-    color: #0019b9;
-}
+// .nav-title {
+//    color: $default-color;
+// }
 
-.nav a {
-    color: #0019b9;
-}
+// .nav a {
+//    color: #0019b9;
+//}
 
 .nav a:active {
     background-color: inherit;
 }
 
 .nav li {
-    color: #0019b9;
+//    color: #0019b9;
     opacity: 1;
 }
 
@@ -91,64 +109,64 @@ h1, h2, h3, h4, h5, h6 {
     margin: 0px
 }
 
-.catalogue-item a:active {
-    background-color: inherit;
-}
+// .catalogue-item a:active {
+//     background-color: inherit;
+// }
 
-.catalogue-title {
-    color: #0019b9;
-}
+// .catalogue-title {
+//    color: #0019b9;
+// }
 
-.catalogue-item {
-    color: #0019b9;
+ .catalogue-item {
+//     color: #0019b9;
     border-bottom: 1px solid #c0c4e9;
 }
 
-.catalogue-line {
-    border-top: 0.2rem solid #0019b9;
-}
+// .catalogue-line {
+//     border-top: 0.2rem solid $default-shade;
+// }
 
-.catalogue-time {
-    color: #0019b9;
-}
+// .catalogue-time {
+//     color: $default-tint;
+// }
 
-.post-line {
-    border-top: 0.4rem solid #0019b9;
-}
+// .post-line {
+//    border-top: 0.4rem solid #0019b9;
+// }
 
-.post-info {
-    color: #0019b9;
-}
+// .post-info {
+//    color: #0019b9;
+// }
 
-.pagination .top {
-    color: #0019b9;
-}
+// .pagination .top {
+//    color: #0019b9;
+// }
 
 .pagination {
-    border-top: 0.5px solid #c0c4e9;
+//    border-top: 0.5px solid #c0c4e9;
     clear:both;
 }
 
-footer span {
-    color: #0019b9;
-}
+// footer span {
+//    color: #0019b9;
+// }
 
-.pagination .arrow {
-    color: #0019b9;
-    font-family: "Helvetica Neue","Segoe UI",Helvetica,Arial,sans-serif;
-}
+// .pagination .arrow {
+//    color: $default-color;
+//    font-family: $sans-serif;
+// }
 
-.pagination span {
-    color: #0019b9;
-  }
+// .pagination span {
+//    color: #0019b9;
+//  }
 
-.highlight {
-    background-color: #f3f2f2;
-}
+// .highlight {
+//    background-color: #f3f2f2;
+// }
 
-code {
-    background-color: #f3f2f2;
-}
+// code {
+//    background-color: #f3f2f2;
+// }
 
 main, footer, .nav-container {
   max-width:900px;
@@ -218,7 +236,7 @@ main, footer, .nav-container {
 
 
 sans {
-  font-family: "Helvetica Neue","Segoe UI",Helvetica,Arial,sans-serif;
+  font-family: $sans-serif;
   font-weight: bold;
   font-size: 16px;
 }
