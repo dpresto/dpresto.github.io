@@ -6,7 +6,7 @@
 # red: #d00000
 ---
 
-@import 'tale';
+
 
 // Colors
 	$default-color: #0019b9;
@@ -25,6 +25,8 @@
 	$serif-secondary: Palatino, 'Palatino LT STD', 'Palatino Linotype', 'Book Antiqua', 'Georgia', serif;
 	$sans-serif: 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, sans-serif;
 	$monospaced: Menlo, Monaco, monospace;
+
+@import 'tale';
 
 // body {
 //   background-color: #faf9f7;
