@@ -26,4 +26,4 @@ Design is about improving the world. It is hope manifested. Design provides an a
 
 It is through these lenses I view the world and my work. The inherent potential and uncertainty of the human condition pushes me to continue searching for new connection opportunities that will bring meaning to our lives. 
 
-If you have a project that aligns with this outlook, or you’d like it to, lets connect. I’m on twitter [@_dominicp](https://twitter.com/_dominicp "twitter link") and instagram at [@sweet.hunches](https://www.instagram.com/sweet.hunches/ "instagram link")
+If you have a project that aligns with this outlook, or you’d like it to, lets connect. I’m on twitter [@_dominicp](https://twitter.com/_dominicp "twitter link") and instagram at the same [@_dominicp](https://www.instagram.com/_dominicp/ "instagram link")
