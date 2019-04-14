@@ -1,0 +1,57 @@
+---
+layout: post
+title: "Observation as a Superpower"
+author: "Dominic"
+published: true
+post_image: /assets/observation.png
+past_cap:
+alt_post_image: A Bigbelly trashcan with a photo on the side of the building it sits in front of.
+---
+
+Observation is one of the few learnable superpowers. We can’t learn to fly or read minds or walk through walls, but we can learn to see, and subsequently understand the world around us better with a little effort. The results of which can pay off quickly, because you’ll start to see the patterns in the world that guide our daily interactions, from shapes to behaviors. For a designer, this skill is invaluable to ensuring the work you do "fits" into the world or doesn’t, by design.
+
+A person can’t just go about their life and think the "powers of observation" will just occur without putting in the effort. This reactionary position will only allow you to see what’s others want you to see, when and how they want you to see it and nothing further. In this way, you’re not learning what the patterns are, but rather learning how to digest what's been given to you. For instance, red octagons mean stop; a door with a flat plate where the handle should be implies you must push to open; when someone is in the middle of the sidewalk holding a clipboard and waving at you they probably want some information from you. Your reaction to these things is learned and often comes quite naturally, but how did you even come to react this way?
+
+In some cases, such as the stop sign, you may have been explicitly taught. In others, however, you likely learned through your own experiences, over time. These examples, however, are for overt signals you can’t help but see, but what about the signals that aren’t so explicit? These could be anything from the movement of a tree branch to the verbiage of a wedding invite or even someone's body language.
+
+The effort towards improving you observation skills comes in a few flavors, but essentially it comes down to paying attention, asking why a thing is the way it is, and developing a sound answer.
+
+## The first step is to pay attention (obviously)
+
+I'm sure there are better definitions in semiotics texts, but for this I'll break the world into three types of signals. Those behaviors, artifacts, phrases and the like that we learn to explicitly watch out for and act accordingly when recognized. Those that we learn about from personal experiences, that lie under our conscious awareness, but keep us acting accordingly within their scope of reach. Then, there is everything else in the world—things not outright meant to guide or inform us, but have the ability nonetheless.
+
+For the explicit signals, it means actually seeing them not just reacting to them. There is more to a stop sign than it's indication to stop your vehicle. Physically speaking it takes up space in the world and therefore it is made of materials that have different performance characteristics. It has more than just the commonly noted red color. It has a position with respect to the cars it is addressing. There are many more qualities that could be discussed, but what's important at this point is that you see it for what it _actually_ is, not just what you were taught to see it as.
+
+For the subconscious signals, you'll have to watch for your reactions first. This is because for these signals you don't explicitly recognize your reaction's catalyst before reacting. When you see yourself reacting try to consider the objective aspects of the reaction, such as what motivated it, what feelings it evoked, what actions you took that lead to it, and what actions were subsequently a part of the reaction.
+
+Then, of course, there is everything else. The aspects of the world that don't outright signal us, and yet still exist to serve a means, such as the flowers on the table, the color of the front door of your neighbor's house, the number of cul-de-sacs in your neighborhood, the types of plants in the park, the order and position of kitchen appliances on your parents counter. You get the idea. All of these, and so many more exist in some form or another—including the form where they don't, i.e., you have no cul-de-sacs in your neighborhood.
+
+Obviously, the majority of what you'll encounter in the world will fall into this last category. So you will need to be able to prioritize the things you choose to spend time observing. How you prioritize is up to you. It comes down to your interests. Maybe you care more about interior decorating than urban planning or vice versa. What's important though is to really study the detail of the pieces you have prioritized. Each quality is a new opportunity for a connection.
+
+## The second step is to ask questions
+
+Design is political. Everything has a some motive or purpose for not just existing, but also for getting to where it is in the world today. Maybe it is explicitly trying to tell you that, and maybe not, but asking these questions will help to suss it out.
+
+A very helpful strategy is to see the context of the item in question. This will give it perspective and help see how it fits into the rest of the world, objectively and subjectively. What do those other items look like? What are they doing to support or detract from the initial signal's apparent intent? What is the network of relationships that is created by them doing for the user or implying on behalf of the designer? What is the nature of the relationships, purely proximity, maybe literally physically connected, or simply symbolically related? For instance, is the trash you're looking at in a street gutter in a small town or a big city? Or maybe it's in your friend's kitchen. The context can drastically change the implications.
+
+For the subconscious signals, interrogate yourself to understand how you learned to react in that way; and consider further how it compares with other's reactions. Ask yourself what the all possible motives are for someone to employ a certain signals use (not just the one that seems immediately most likely). Additionally, this allows you to then also consider how you'd like to react in the future, to try to re-teach yourself a way of working that is more aligned with your conscious goals.
+
+Good questions to ask are often very fundamental ones, so much so they can be hard to even think of at times. A few examples are
+
+* Why is this (still) here?
+* Who thought this was a good idea?
+* What purpose does it serve?
+
+Some good follow-ups to those are:
+* So what?
+* So, why…?
+
+## The third step is to find answers or hypothesize
+
+This is where you start to be able to see things stand out or blend in. For instance, the accent wall trend was an exceptionally overt example of this. This was when walls were painted in such a way to force even the unobservant to recognize the distinction of one wall from all the rest. You may also start to see the larger agenda's at play, for instance in roadways that lack sidewalks imply that people should not be walking there, whether a person needs to or not.
+
+Definitive answers won't always be readily available, and so to that end developing hypotheses based on your own previous experience is a great first course of action. One caveat is that you must remember that a hypothesis is only an informed guess and that it still needs to be validated further.
+
+Which leads to the second strategy, asking other people your questions. Others may or may not know, but the conversations often end up interesting.You could get the simple, straight forward answer of "I don't know." or I like it that way." If you're lucky, you will get an oral history with specific references to follow-up on about this history of a thing. Or, there may be no good answer in the cases where culture seems to deem something preferable for no discernible reason. In these cases, digging deeper in related histories can uncover clues, but still, rarely give anything definitive.
+
+In the end, like anything else, the more you practice the better and faster you'll get at it. In doing so, the world and the people in it will start to tell you more about themselves. You'll be able to start relating things across space and time because you'll have observed seemingly similar things that will start to produce insights into trends and patterns in culture and human behavior. It will be as if you _could_ read minds or see into the future. These are the invaluable insights you'll be able to bring to bear on your daily life decisions as you continue to create the world around you, whether you're a professional designer or just trying to choose what to make for lunch for your kids.
