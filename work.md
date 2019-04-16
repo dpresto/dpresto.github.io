@@ -2,7 +2,6 @@
 layout: gallery
 title: "Work"
 author: "DP"
-permalink: /work/
 ---
 <h1>Projects</h1>
 
