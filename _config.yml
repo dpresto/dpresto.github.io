@@ -13,6 +13,9 @@ author:
 instagram:      _dominicp
 twitter:        _dominicp
 
+# Collections
+collections:    work
+
 # Build settings
 markdown:       kramdown
 
