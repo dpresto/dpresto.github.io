@@ -10,11 +10,11 @@ alt_post_image: A photo of a home office reconfigured for a remote interview
 
 Yup
 
-{% for staff_member in site.staff_members %}
+{% for title in site.work %}
   <h2>
     <a href="{{ work.url }}">
       {{ work.title }}
     </a>
   </h2>
-  <p>{{ staff_member.content | markdownify }}</p>
+  <p>{{ work.content | markdownify }}</p>
 {% endfor %}
