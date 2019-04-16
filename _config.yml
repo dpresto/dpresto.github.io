@@ -15,6 +15,7 @@ twitter:        _dominicp
 
 # Collections
 collections:    work
+output:         true
 
 # Build settings
 markdown:       kramdown
