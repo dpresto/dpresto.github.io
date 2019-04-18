@@ -8,9 +8,9 @@ author: "DP"
 <ul>
   {% for project in site.work %}
     <li>
-      <h2>{{ work.title }}</h2>
-      <h3>{{ work.author }}</h3>
-      <p>{{ work.content | markdownify }}</p>
+      <h2>{{ project.title }}</h2>
+      <h3>{{ project.author }}</h3>
+      <p>{{ project.content | markdownify }}</p>
     </li>
   {% endfor %}
 </ul>
