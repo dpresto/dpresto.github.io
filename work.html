@@ -9,7 +9,7 @@ permalink: /work/
 <ul>
   {% for project in site.work %}
     <li>
-      <h2>{{ project.title }}</h2>
+      <h2><a href="{{ project.url }}">{{ project.title }}</a></h2>
       <h3>{{ project.author }}</h3>
       <p>{{ project.content | markdownify }}</p>
     </li>
