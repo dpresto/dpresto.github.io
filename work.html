@@ -8,7 +8,6 @@ permalink: /work/
 <h1>Projects</h1>
   {% for project in site.work %}
   {% if work.type == 'main' %}
-  You are buying some awesome shoes!
       <h2><a href="{{ project.url }}">{{ project.title }}</a></h2>
       <h3>{{ project.author }}</h3>
       <p>{{ project.content | markdownify }}</p>
@@ -19,4 +18,12 @@ permalink: /work/
 
 </div class="col3">
 <h1>Side Projects</h1>
+{% for project in site.work %}
+{% if work.type == 'side' %}
+    <h2><a href="{{ project.url }}">{{ project.title }}</a></h2>
+    <h3>{{ project.author }}</h3>
+    <p>{{ project.content | markdownify }}</p>
+  <br>
+  {% endif %}
+{% endfor %}
 </div>
