@@ -8,8 +8,8 @@ permalink: /work/
 <h1>Projects</h1>
 <ul>
   {% for project in site.work %}
-      <h2><a href="{{ project.url }}">{{ project.title }}</a></h2><<br>
-      <h3>{{ project.author }}</h3><<br>
+      <h2><a href="{{ project.url }}">{{ project.title }}</a></h2>
+      <h3>{{ project.author }}</h3>
       <p>{{ project.content | markdownify }}</p>
     <br>
   {% endfor %}
