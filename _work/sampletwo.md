@@ -2,8 +2,8 @@
 layout: post
 title: "Second Sample"
 author: "DP"
-mainproject:
-sideproject: "true"
+mainproject: false
+sideproject: true
 published: true
 post_image: /assets/interview_setup.png
 post_cap: Image courtesy of Nicolas Coia
