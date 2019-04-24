@@ -20,7 +20,7 @@ permalink: /work/
 </div class="col3">
 <h1>Side Projects</h1>
 {% for project in site.work %}
-{% if project.type == sideproject  %}
+{% if project.type == 'sideproject'  %}
     <h2><a href="{{ project.url }}">{{ project.title }}</a></h2>
     <h3>{{ project.author }}</h3>
     <p>{{ project.content | markdownify }}</p>
