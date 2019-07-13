@@ -46,7 +46,7 @@ social-oriented startups. </p>
 <br>
   <h2>Teaching</h2>
   <p><sans>Guest Speaker</sans> <br>
-  <a href="https://community.mis.temple.edu" title="Temple MIS Dept.'s Homepage">MIS Dept., Fox School of Business, Temple</a> | Oct 2017 -  Aug 2018 <br>
+  <a href="https://community.mis.temple.edu" title="Temple MIS Dept.'s Homepage">MIS Dept., Fox School of Business, Temple</a> | Oct 2017 -  Jul 2019 <br>
   Managed a team of two other Research and Experience Designers and an intern, supporting their professional growth and maturity. This included a private discussion of a skills self-assessment, done on a rubric I created for tracking growth in the role.</p>
 
   <p><sans>Lecturer</sans> <br> 
