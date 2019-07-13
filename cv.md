@@ -63,6 +63,9 @@ social-oriented startups. </p>
 <br>
 
   <h2>Community</h2>
+    <p><sans>Organizer</sans> <br> 
+  <a href="https://www.meetup.com/uxanything/" title="UX Anything Meetup Page">UX AnythingC</a> | Jun 2019 – Current <br>
+    Presented, as an industry expert, on the topics of design and business to local entrepreneurs.</p>
     <p><sans>Guest Speaker</sans> <br> 
   <a href="https://sbdctech.com/EPIC/" title="EPIC's Homepage">EPIC SBDC</a> | Sep 2018 <br>
     Presented, as an industry expert, on the topics of design and business to local entrepreneurs.</p>
