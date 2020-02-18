@@ -4,8 +4,8 @@ title: "CV"
 author: "DP"
 permalink: /cv/
 ---
+## Experience
 <div class="col23">
-  <h2>Experience</h2>
   <p><sans>UX Architect</sans> <br>
   <a href="https://www.contrastsecurity.com/" title="Contrast Security's Homepage">Contrast Security</a> | Feb 2019 - Present <br>
  Conducted qualitative and quantitative design research to define clear problem statements, collaborate with team members to design sensible workflows and build prototypes to validate them, and work with engineers solidify associated business requirements.</p>
