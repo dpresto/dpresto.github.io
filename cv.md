@@ -4,8 +4,8 @@ title: "CV"
 author: "DP"
 permalink: /cv/
 ---
-## Experience
 <div class="col23">
+  <h2>Experience</h2>
   <p><sans>UX Architect</sans> <br>
   <a href="https://www.contrastsecurity.com/" title="Contrast Security's Homepage">Contrast Security</a> | Feb 2019 - Present <br>
  Conducted qualitative and quantitative design research to define clear problem statements, collaborate with team members to design sensible workflows and build prototypes to validate them, and work with engineers solidify associated business requirements.</p>
@@ -70,7 +70,7 @@ permalink: /cv/
   <h2>Presentations</h2>
     <p><sans>Goals Vs Reality (vs Reality)</sans> <br>
   <a href="https://vimeo.com/145221080" title="Healthcare Analytics Dashbaord Design - PhillyChi 2015 Show and Tell Vimeo page">PhillyCHI Show and Tell</a> | Sep 2015 <br>
-  Discussed strategies for creating actionable information visualizations with real-time data based on experiences designing a tool for healthcare professionals to assess their staffing.</p></div>
+  Discussed strategies for creating actionable information visualizations with real-time data based on experiences designing a tool for healthcare professionals to assess their staffing.</p>sup</div>
 
 <div class="col3">
   <h2>Education</h2>
