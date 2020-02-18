@@ -40,8 +40,7 @@ permalink: /cv/
 
   <p><sans>Volunteer</sans> <br>
   <a href="https://www.peacecorps.gov" title="U.S. Peace Corps' Homepage">United States Peace Corps</a> | Oct 2006 - Oct 2010 <br>
-  Wrote a Chitumbuka language reference manual for volunteers. Also worked with local craftsmen to create a modular cargo system to increase load capacity of their bicycles which were their primary means of transportation.</p>
-<br>
+  Wrote a Chitumbuka language reference manual for volunteers. Also worked with local craftsmen to create a modular cargo system to increase load capacity of their bicycles which were their primary means of transportation.</p><br>
 
   <h2>Teaching</h2>
   <p><sans>Guest Speaker</sans> <br>
@@ -58,8 +57,7 @@ permalink: /cv/
 
   <p><sans>Teaching Assistant</sans> <br>
   <a href="https://www.uarts.edu" title="UArts' Homepage">University of the Arts</a> | Aug 2012 – May 2014 <br>
-  Taught two courses at the graduate level, Educational Media A and B, regarding the use of technology and the capabilities it affords in the classroom.</p>
-<br>
+  Taught two courses at the graduate level, Educational Media A and B, regarding the use of technology and the capabilities it affords in the classroom.</p><br>
 
   <h2>Community</h2>
     <p><sans>Organizer</sans> <br>
@@ -67,15 +65,12 @@ permalink: /cv/
     A Meetup group for the Inland Empire region of Southern California dedicated to anything relating to the profession of User Experience.
     <p><sans>Guest Speaker</sans> <br>
   <a href="https://sbdctech.com/EPIC/" title="EPIC's Homepage">EPIC SBDC</a> | Sep 2018 <br>
-    Presented, as an industry expert, on the topics of design and business to local entrepreneurs.</p>
-<br>
+    Presented, as an industry expert, on the topics of design and business to local entrepreneurs.</p><br>
 
   <h2>Presentations</h2>
     <p><sans>Goals Vs Reality (vs Reality)</sans> <br>
   <a href="https://vimeo.com/145221080" title="Healthcare Analytics Dashbaord Design - PhillyChi 2015 Show and Tell Vimeo page">PhillyCHI Show and Tell</a> | Sep 2015 <br>
-  Discussed strategies for creating actionable information visualizations with real-time data based on experiences designing a tool for healthcare professionals to assess their staffing.</p>
-
-</div>
+  Discussed strategies for creating actionable information visualizations with real-time data based on experiences designing a tool for healthcare professionals to assess their staffing.</p></div>
 
 <div class="col3">
   <h2>Education</h2>
@@ -85,28 +80,28 @@ permalink: /cv/
 
   <p><sans>Bachelors of Science</sans> <br>
   <a href="https://www.gatech.edu" title="Georgia Tech Hompage">Georgia Tech</a> | 2006 <br>
-  Major: Aerospace Engineering </p>
-<br>
+  Major: Aerospace Engineering </p><br>
+
   <h2>Skills</h2>
-<ul>
-  <li>Design Strategy</li>
-  <li>Human Centered Design</li>
-  <li>Design Ethnography</li>
-  <li>UX Research</li>
-  <li>Experience Design</li>
-  <li>Information Architecture</li>
-  <li>Facilitation</li>
-  <li>Usaibility Testing</li>
-  <li>Product Management</li>
-  <li>Information Design</li>
-  <li>Teaching</li>
-  <li>Mentoring</li>
-  <li>Public Speaking</li>
-  <li>Usability Testing</li>
-  <li>Storytelling</li>
-  <li>Prototyping</li>
-  <li>Writing</li>
-  <li>Sales</li>
-  <li>Bicycle Mechanic</li>
-  <li>Chitumbuka Language</li>
-</ul>
+  <ul>
+    <li>Design Strategy</li>
+    <li>Human Centered Design</li>
+    <li>Design Ethnography</li>
+    <li>UX Research</li>
+    <li>Experience Design</li>
+    <li>Information Architecture</li>
+    <li>Facilitation</li>
+    <li>Usaibility Testing</li>
+    <li>Product Management</li>
+    <li>Information Design</li>
+    <li>Teaching</li>
+    <li>Mentoring</li>
+    <li>Public Speaking</li>
+    <li>Usability Testing</li>
+    <li>Storytelling</li>
+    <li>Prototyping</li>
+    <li>Writing</li>
+    <li>Sales</li>
+    <li>Bicycle Mechanic</li>
+    <li>Chitumbuka Language</li>
+  </ul>
