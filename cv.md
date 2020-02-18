@@ -4,7 +4,7 @@ title: "CV"
 author: "DP"
 permalink: /cv/
 ---
-<div class="col23">
+<div class="col23"></div>
   <h2>Experience</h2>
   <p><sans>UX Architect</sans> <br>
   <a href="https://www.contrastsecurity.com/" title="Contrast Security's Homepage">Contrast Security</a> | Feb 2019 - Present <br>
