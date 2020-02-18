@@ -105,4 +105,3 @@ permalink: /cv/
     <li>Bicycle Mechanic</li>
     <li>Chitumbuka Language</li>
   </ul>
-  
