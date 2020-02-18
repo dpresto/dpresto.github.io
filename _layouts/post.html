@@ -18,7 +18,7 @@ layout: default
   </div>
 
   <h1 class="post-title">{{ page.title }}</h1>
-  <div class="post-line"></div>      
+  <div class="post-line"></div>
     {% if page.post_cap %}
       <img src="{{ page.post_image | prepend: site.url }}" alt="{{ page.alt_post_image }}" style="width: 100%;">
       <span style="float:right;font-family: &quot;Helvetica Neue&quot;,&quot;Segoe UI&quot;,Helvetica,Arial,sans-serif;">{{page.post_cap}}</span>
@@ -35,10 +35,7 @@ layout: default
     {% else %}
       {{ content }}
     {% endif %}
-  
-
-
-</div>
+  </div>
 
 <div class="pagination">
   {% if page.next.url %}
