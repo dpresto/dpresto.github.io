@@ -4,7 +4,7 @@ title: "CV"
 author: "DP"
 permalink: /cv/
 ---
-<div class="col23">
+
   <h2>Experience</h2>
   <p><sans>UX Architect</sans> <br>
   <a href="https://www.contrastsecurity.com/" title="Contrast Security's Homepage">Contrast Security</a> | Feb 2019 - Present <br>
@@ -70,9 +70,9 @@ permalink: /cv/
   <h2>Presentations</h2>
     <p><sans>Goals Vs Reality (vs Reality)</sans> <br>
   <a href="https://vimeo.com/145221080" title="Healthcare Analytics Dashbaord Design - PhillyChi 2015 Show and Tell Vimeo page">PhillyCHI Show and Tell</a> | Sep 2015 <br>
-  Discussed strategies for creating actionable information visualizations with real-time data based on experiences designing a tool for healthcare professionals to assess their staffing.</p>sup</div>
+  Discussed strategies for creating actionable information visualizations with real-time data based on experiences designing a tool for healthcare professionals to assess their staffing.</p>
 
-<div class="col3">
+
   <h2>Education</h2>
   <p><sans>Masters of Design</sans> <br>
   <a href="https://www.uarts.edu" title="UArts Homepage">University of the Arts</a> | 2012 <br>
@@ -105,4 +105,3 @@ permalink: /cv/
     <li>Bicycle Mechanic</li>
     <li>Chitumbuka Language</li>
   </ul>
-  </div>
