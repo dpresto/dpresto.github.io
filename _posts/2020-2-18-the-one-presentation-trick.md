@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Two-Word Presentation Trick"
+title: "The Two-Word Hack To Better Presentations"
 author: "Dominic"
 published: true
 post_image: /assets/so-what-presentation.png
