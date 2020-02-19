@@ -7,7 +7,6 @@ post_image: /assets/so-what-presentation.png
 post_cap:
 alt_post_image: Google Slides Screenshot with "So What" as the title
 ---
-### Two Words
 Presentations matter. They are an opportunity for you to tell your story. Storytelling is like magic to a human mind, and as such your presentation can be too. It's easy to end up in a situation where you don't want to be—especially when you're knee deep into PowerPoint's design tools. There are many ways to mitigate that situation from happening, but the one thing I use most is simply asking myself **"So what?"** as much as possible.
 
 At two words, it's a pretty simple phrase, but that doesn't mean it's not powerful. This question acts as a proxy forcing you to consider your audience's perspective, agnostic of the specific context. This helps me keep my "user" in mind and ensure the points I'm making aren't just ones I want to make, but ones (hopefully 🤞) my audience will find value in. _(Testing the presentation is the only way to truly know if an audience will value it_)
