@@ -25,9 +25,9 @@ layout: default
   {% for project in site.work %}
   {% if project.type == 'mainproject' %}
       <img src="{{ project.post_image | prepend: site.baseurl }}" alt="{{ project.alt_post_image }}" style="width: 100%;">
-      <h3><a href="{{ project.url }}">{{ project.title }}</a></h3>
-      <h3>{{ project.author }}</h3>
-      <p>{{ project.content | markdownify }}</p>
+      <h2><a href="{{ project.url }}">{{ project.title }}</a></h2>
+      <!-- <h3>{{ project.author }}</h3>
+      <p>{{ project.content | markdownify }}</p> -->
     <br>
     {% endif %}
   {% endfor %}
@@ -39,8 +39,8 @@ layout: default
 {% if project.type == 'sideproject'  %}
     <img src="{{ project.post_image | prepend: site.baseurl }}" alt="{{ project.alt_post_image }}" style="width: 100%;">
     <h3><a href="{{ project.url }}">{{ project.title }}</a></h3>
-    <h3>{{ project.author }}</h3>
-    <p>{{ project.content | markdownify }}</p>
+    <!-- <h3>{{ project.author }}</h3>
+    <p>{{ project.content | markdownify }}</p> -->
   <br>
   {% endif %}
 {% endfor %}
