@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sample Project"
+title: "Sample Side Project"
 author: "DP"
 type: sideproject
 published: true
