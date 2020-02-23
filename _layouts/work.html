@@ -27,7 +27,7 @@ layout: default
       <img src="{{ project.post_image | prepend: site.baseurl }}" alt="{{ project.alt_post_image }}" style="width: 100%;">
       <h2><a href="{{ project.url }}">{{ project.title }}</a></h2>
       <!-- <h3>{{ project.author }}</h3> -->
-      <p>{{ project.content | markdownify }}</p>
+      <p>{{ project.proj_description | markdownify }}</p>
     <br>
     {% endif %}
   {% endfor %}
