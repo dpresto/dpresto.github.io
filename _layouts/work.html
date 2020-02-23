@@ -25,7 +25,7 @@ layout: default
   {% for project in site.work %}
   {% if project.type == 'mainproject' %}
       <h2><a href="{{ project.url }}">{{ project.title }}</a></h2>
-      <img src="{{ post.post_image | prepend: site.baseurl }}" alt="{{ post.alt_post_image }}" style="width: 100%;">
+      <img src="{{ project.post_image | prepend: site.baseurl }}" alt="{{ project.alt_post_image }}" style="width: 100%;">
       <h3>{{ project.author }}</h3>
       <p>{{ project.content | markdownify }}</p>
     <br>
@@ -38,7 +38,7 @@ layout: default
 {% for project in site.work %}
 {% if project.type == 'sideproject'  %}
     <h2><a href="{{ project.url }}">{{ project.title }}</a></h2>
-    <img src="{{ post.post_image | prepend: site.baseurl }}" alt="{{ post.alt_post_image }}" style="width: 100%;">
+      <img src="{{ project.post_image | prepend: site.baseurl }}" alt="{{ project.alt_post_image }}" style="width: 100%;">
     <h3>{{ project.author }}</h3>
     <p>{{ project.content | markdownify }}</p>
   <br>
