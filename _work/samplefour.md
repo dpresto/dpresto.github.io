@@ -16,11 +16,11 @@ live_site_name: dominicp.com
 live_site_url: "http://dominicp.com"
 ---
 <div class="col4">
-<strong>Client:</strong> {{ page.client }}<br>
-<strong>Delivered: </strong> {{ page.delivered_season }}<br>
-<strong>Duration:</strong> {{ page.duration }}<br>
-<strong>Roles:</strong> {{ page.roles }}<br>
-<strong>Live Site:</strong> <a href="{{ page.live_site_url }}" alt="{{ page.live_site_name }}">{{ page.live_site_name }}</a>
+<p><strong>Client:</strong> {{ page.client }}</p>
+<p><strong>Delivered: </strong> {{ page.delivered_season }}</p>
+<p><strong>Duration:</strong> {{ page.duration }}</p>
+<p><strong>Roles:</strong> {{ page.roles }}</p>
+<p><strong>Live Site:</strong> <a href="{{ page.live_site_url }}" alt="{{ page.live_site_name }}">{{ page.live_site_name }}</a>
 
 </div>
 <div class="col34">
