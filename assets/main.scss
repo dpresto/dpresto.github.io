@@ -47,7 +47,7 @@ blockquote {
 // .post-title {
 //     color: #0019b9;
 // }
- 
+
 :root {
   --mainColor: $default-color;
 }
@@ -229,6 +229,12 @@ main, footer, .nav-container {
   width:100%;
   padding: 0 0 16px;
 }
+
+.metadata {
+	font-family: "Helvetica Neue","Segoe UI",Helvetica,Arial,sans-serif;
+	font-size: 12px;
+}
+
 @media (min-width: 700px) {
   .col34 {
     width:75%;
@@ -260,4 +266,3 @@ sans {
     margin: 2rem auto 0px;
   }
 }
- 
