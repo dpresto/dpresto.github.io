@@ -11,7 +11,7 @@ proj_description: This is a 4th sample of what else could be included.
 client: "Internal"
 ---
 <div class="col4">
-<span class="h4">Client:</span> {{ page.client }}
+<strong>Client:</strong> {{ page.client }}
 </div>
 <div class="col34">
 This is a 4th sample of what else could be included. You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
