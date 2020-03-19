@@ -17,7 +17,7 @@ live_site_url: "http://dominicp.com"
 ---
 <div>
 <div class="col4">
-<p><h4>Client:</h4> {{ page.client }}</p>
+<h4>Client:</h4> <p>{{ page.client }}</p>
 <h4>Delivered: </h4> {{ page.delivered_season }}
 <h4>Duration:</h4> {{ page.duration }}
 <h4>Roles:</h4> {{ page.roles }}
