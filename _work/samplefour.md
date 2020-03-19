@@ -18,17 +18,10 @@ live_site_url: "http://dominicp.com"
 <div>
   <div class="col4">
   <h4>Client:</h4> <p>{{ page.client }}</p>
-  <h4>Delivered: </h4> {{ page.delivered_season }}
-  <h4>Duration:</h4> {{ page.duration }}
-  <h4>Roles:</h4> {{ page.roles }}
-  <h4>Live Site:</h4> <a href="{{ page.live_site_url }}" alt="{{ page.live_site_name }}">{{ page.live_site_name }}</a>s
-  <!-- <div class="metadata">
-  <p><strong>Client:</strong> {{ page.client }}</p>
-  <p><strong>Delivered: </strong> {{ page.delivered_season }}</p>
-  <p><strong>Duration:</strong> {{ page.duration }}</p>
-  <p><strong>Roles:</strong> {{ page.roles }}</p>
-  <p><strong>Live Site:</strong> <a href="{{ page.live_site_url }}" alt="{{ page.live_site_name }}">{{ page.live_site_name }}</a></p>
-  </div> -->
+  <h4>Delivered: </h4> <p>{{ page.delivered_season }}</p>
+  <h4>Duration:</h4> <p>{{ page.duration }}</p>
+  <h4>Roles:</h4> <p>{{ page.roles }}</p>
+  <h4>Live Site:</h4> <p><a href="{{ page.live_site_url }}" alt="{{ page.live_site_name }}">{{ page.live_site_name }}</a></p>
   </div>
 
   <div class="col34">
@@ -37,4 +30,5 @@ live_site_url: "http://dominicp.com"
   </div>
 </div>
 <hr>
+<br>
 <img src="{{ page.post_image | prepend: site.url }}" alt="{{ page.alt_post_image }}" style="width: 100%;">
