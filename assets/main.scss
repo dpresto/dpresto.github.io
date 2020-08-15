@@ -32,6 +32,11 @@
 //   background-color: #faf9f7;
 //   color: #0019b9;
 // }
+* {
+  @include box-sizing;
+  line-height: 1.5;
+  
+}
 
 blockquote {
     border-left: 0.25rem solid $default-color;
@@ -75,7 +80,7 @@ blockquote {
 
 .post p {
     padding: 0 0 1rem;
-		
+		margin: 0 0;
     text-align: left;
 }
 
