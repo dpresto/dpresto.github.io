@@ -75,14 +75,14 @@ blockquote {
 
 .post p {
     padding: 0 0 1rem;
-		margin: 0 0;
+		
     text-align: left;
 }
 
 h1, h2, h3, h4, h5, h6 {
 //    color: $default-shade;
     font-weight: bold;
-    margin: 16px 0
+    margin: 16px 0;
 }
 
 .nav {
@@ -239,7 +239,7 @@ main, footer, .nav-container {
     font-weight: bold;
     margin: 16px 0 4px;
 	}
-	
+
 @media (min-width: 700px) {
   .col34 {
     width:75%;
