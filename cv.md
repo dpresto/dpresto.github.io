@@ -10,7 +10,7 @@ permalink: /cv/
   <a href="https://www.contrastsecurity.com/" title="Contrast Security's Homepage">Contrast Security</a> | Feb 2019 - Present <br>
  Lead the design effort as a Core Team member for the flagship product, Assess, a market defining application security product. Conducted mixed-methods design research to define clear problem statements. Collaborated with team members to design informed workflows—building prototypes to validate directions. Worked closely with engineers throughout the project build process.</p>
 
-  <p><sans>Director of Research & Experience Design</sans> <br>
+  <p><sans>Director of Research & Experience Design (RXD)</sans> <br>
   <a href="http://andculture.com" title="Andculture's Homepage">Andculture</a> | Aug 2015 - Feb 2019 <br>
   Oversaw the RXD team, their development and their output. Developed a set of RXD-lead services including design research, strategic design, systems and processes audits, and design workshops. Evangelized team and company work as well as continued acting as an individual contributor.</p>
 
