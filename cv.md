@@ -77,7 +77,7 @@ permalink: /cv/
   <h2>Education</h2>
   <p><sans>Masters of Design</sans> <br>
   <a href="https://www.uarts.edu" title="UArts Homepage">University of the Arts</a> | 2012 <br>
-  Focus: Design Thinking </p>
+  Focus: Service Design </p>
 
   <p><sans>Bachelors of Science</sans> <br>
   <a href="https://www.gatech.edu" title="Georgia Tech Hompage">Georgia Tech</a> | 2006 <br>
