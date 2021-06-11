@@ -8,7 +8,7 @@ permalink: /cv/
   <h2>Experience</h2>
   <p><sans>Senior UX Architect</sans> <br>
   <a href="https://www.contrastsecurity.com/" title="Contrast Security's Homepage">Contrast Security</a> | Feb 2019 - Present <br>
- Lead the design effort as a Core Team member for the flagship product, Assess, a market defining application security product. Conducted mixed-methods design research to define clear problem statements. Collaborated with team members to design informed workflows—building prototypes to validate directions. Worked closely with engineers throughout the project build process.</p>
+ Lead the design effort as a Core Team member for the flagship product, Assess, a market defining interactive application security tool. Conducted mixed-methods design research to define clear problem statements. Collaborated with team members to design informed workflows—building prototypes to validate directions. Worked closely with engineers throughout the project build process.</p>
 
   <p><sans>Director of Research & Experience Design (RXD)</sans> <br>
   <a href="http://andculture.com" title="Andculture's Homepage">Andculture</a> | Aug 2015 - Feb 2019 <br>
