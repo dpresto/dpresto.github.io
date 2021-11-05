@@ -92,13 +92,12 @@ permalink: /cv/
     <li>Experience Design</li>
     <li>Information Architecture</li>
     <li>Facilitation</li>
-    <li>Usaibility Testing</li>
+    <li>Usability Testing</li>
     <li>Product Management</li>
     <li>Information Design</li>
     <li>Teaching</li>
     <li>Mentoring</li>
     <li>Public Speaking</li>
-    <li>Usability Testing</li>
     <li>Storytelling</li>
     <li>Prototyping</li>
     <li>Writing</li>
