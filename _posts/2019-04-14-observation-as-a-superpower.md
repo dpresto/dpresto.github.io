@@ -2,7 +2,7 @@
 layout: post
 title: "Observation as a Superpower"
 author: "Dominic"
-published: true
+published: false
 post_image: /assets/observation.png
 past_cap:
 alt_post_image: A Bigbelly trashcan with a photo on the side of the building it sits in front of.

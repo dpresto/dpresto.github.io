@@ -2,7 +2,7 @@
 layout: post
 title: "How to Properly Setup for a Remote Interview"
 author: "Dominic"
-published: true
+published: false
 post_image: /assets/interview_setup.png
 post_cap: Image courtesy of <a href="https://coianac.github.io">Nicolas Coia</a>
 alt_post_image: A photo of a home office reconfigured for a remote interview

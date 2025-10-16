@@ -2,7 +2,7 @@
 layout: post
 title: "Craftsmanship in Experience Design"
 author: "Dominic"
-published: true
+published: false
 post_image: /assets/craftsmanship.png
 past_cap:
 alt_post_image: A person using a chisel to shape a tenon on the end of a wooden bar

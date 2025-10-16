@@ -2,7 +2,7 @@
 layout: post
 title: "Websites as Ongoing Conversations"
 author: "Dominic"
-published: true
+published: false
 post_image: /assets/walnut_st.png
 past_cap: via <a href="https://www.google.com/maps/@39.9495828,-75.1667735,3a,75y,8.18h,95.25t/data=!3m6!1e1!3m4!1s_DGm4f4mjoVQfeM4Ctoayg!2e0!7i13312!8i6656">Google Street View</a>
 alt_post_image: A photo of storefronts on Walnut St. in Center City Philadelphia

@@ -33,6 +33,16 @@ plugins:
   - jekyll-paginate
   - jemoji #Uncomment this to allow emoji in your post
 
-# Permalinks
-permalink:      /:year-:month-:day/:title
+# Permalinks and Pages
+permalink:      pretty
 paginate:       5
+include:        ["_pages"]
+homepage:       /about
+
+# Set posts to unpublished by default
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      published: false  # This will hide all posts by default
