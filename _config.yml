@@ -37,12 +37,12 @@ plugins:
 permalink:      pretty
 paginate:       5
 include:        ["_pages"]
-homepage:       /index.html
+homepage:       /index.md
 
 # Set posts to unpublished by default
 defaults:
   - scope:
       path: ""
       type: "posts"
-    values:
+      values:
       published: false  # This will hide all posts by default
