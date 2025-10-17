@@ -37,7 +37,7 @@ plugins:
 permalink:      pretty
 paginate:       5
 include:        ["_pages"]
-homepage:       /about
+homepage:       /index.html
 
 # Set posts to unpublished by default
 defaults:
