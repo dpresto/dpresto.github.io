@@ -80,7 +80,7 @@ permalink: /cv/
 <div class="col3">
   <h2>Education</h2>
   <p><sans>Masters of Design</sans> <br>
-  <a href="https://www.uarts.edu" title="UArts Homepage">University of the Arts</a> | 2012 <br>
+  <a href="https://en.wikipedia.org/wiki/University_of_the_Arts_(Philadelphia)" title="UArts Wikipedia Page">University of the Arts</a> | 2012 <br>
   Focus: Service Design </p>
 
   <p><sans>Bachelors of Science</sans> <br>
